@@ -1,0 +1,1974 @@
+{
+  "0-AI-UG/cate": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "1jehuang/jcode": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "2025Emma/vibe-coding-cn": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "666ghj/MiroFish": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "AI-App/OpenDevin.OpenDevin": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "AMAP-ML/LoopArena": [
+    "LLM Tooling",
+    "Observability & Evals"
+  ],
+  "ASLP-lab/DiffRhythm": [
+    "Media",
+    "Voice, Audio & Music"
+  ],
+  "Accio-org/CommerceAgentBench": [
+    "LLM Tooling",
+    "Observability & Evals"
+  ],
+  "AeternaLabsHQ/pullmd": [
+    "Media",
+    "Documents, Slides & OCR"
+  ],
+  "Affitor/open-affiliate": [
+    "Finance",
+    "Finance, Trading & Business"
+  ],
+  "AgriciDaniel/claude-seo": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "Arize-ai/phoenix": [
+    "LLM Tooling",
+    "Observability & Evals"
+  ],
+  "AstroDraw/AstroChart": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "Asymptote-Labs/agent-beacon": [
+    "AI Agents",
+    "Agent Memory & Knowledge Graphs"
+  ],
+  "BerriAI/litellm": [
+    "LLM Tooling",
+    "Gateways & Proxies"
+  ],
+  "BloopAI/vibe-kanban": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "Borda/vision-synth": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "BrightbeamAI/chap": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "CasberryIndia/Physics-Notebook": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "Chalarangelo/30-seconds-of-code": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "Coder-World04/Complete-System-Design": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "CopilotKit/CopilotKit": [
+    "LLM Tooling",
+    "Chat UIs & LLM Apps"
+  ],
+  "DavidHDev/react-bits": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "Dicklesworthstone/destructive_command_guard": [
+    "Security",
+    "Security Tools"
+  ],
+  "Dooy/chatgpt-web-midjourney-proxy": [
+    "LLM Tooling",
+    "Chat UIs & LLM Apps"
+  ],
+  "Doriandarko/texts-to-transformer": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "Dyneteq/reconya": [
+    "Security",
+    "Security Tools"
+  ],
+  "EbookFoundation/free-programming-books": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "Einsia/Browser-BC": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "Emily2040/seedance-2.0": [
+    "Media",
+    "Video"
+  ],
+  "EveryInc/compound-engineering-plugin": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "FlowiseAI/Flowise": [
+    "Automation & DevOps",
+    "Workflow Automation"
+  ],
+  "FonaTech/Clouds-Coder": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "FoundationAgents/OpenManus": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "GaiZhenbiao/ChuanhuChatGPT": [
+    "LLM Tooling",
+    "Chat UIs & LLM Apps"
+  ],
+  "General-Legal/legal-templates": [
+    "Media",
+    "Documents, Slides & OCR"
+  ],
+  "Gitlawb/openclaude": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "GoogleChrome/lighthouse-ci": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "Gsync/jobsync": [
+    "Apps & Utilities",
+    "Notes & Productivity"
+  ],
+  "HKUDS/DeepCode": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "HelpCode-ai/anythingmcp": [
+    "MCP",
+    "MCP Servers & Tools"
+  ],
+  "HeyPuter/puter": [
+    "Apps & Utilities",
+    "Self-Hosted"
+  ],
+  "Hmbown/Codewhale": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "HolmesGPT/holmesgpt": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "IceWhaleTech/CasaOS": [
+    "Apps & Utilities",
+    "Self-Hosted"
+  ],
+  "InsForge/InsForge": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "JegernOUTT/refact": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "JerryZLiu/Dayflow": [
+    "Apps & Utilities",
+    "Notes & Productivity"
+  ],
+  "JohnHeibel/ClaudeAnimationBase": [
+    "Graphics & Animation",
+    "Animation, Canvas & SVG"
+  ],
+  "JustVugg/colibri": [
+    "LLM Tooling",
+    "Local Models & Inference"
+  ],
+  "Kangentic/kangentic": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "LaoFeng-mouse/flyingmouse-format": [
+    "Media",
+    "Documents, Slides & OCR"
+  ],
+  "Leonxlnx/agentic-ai-prompt-research": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "LibreChat-AI/LibreChat": [
+    "LLM Tooling",
+    "Chat UIs & LLM Apps"
+  ],
+  "Liquid4All/antidoom": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "Mango/slideout": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "MervinPraison/PraisonAI": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "MichaelCade/90DaysOfDevOps": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "MiniAiLive/Android-FaceRecognition": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "MirroS-Lab/Code-as-World": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "MoonshotAI/MoBA": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "MrLesk/Backlog.md": [
+    "Apps & Utilities",
+    "Notes & Productivity"
+  ],
+  "MusicLang/musiclang": [
+    "Media",
+    "Voice, Audio & Music"
+  ],
+  "Muvon/octomind": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "NUKnightLab/TimelineJS": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "NVIDIA-Omniverse/PhysX": [
+    "Graphics & Animation",
+    "3D & WebGL"
+  ],
+  "NaiboWang/EasySpider": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "NangoHQ/nango": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "NanmiCoder/MediaCrawler": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "NotHarshhaa/DevOps-Projects": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "NousResearch/hermes-agent": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "NuNaught/suno-songwriting-skill": [
+    "Media",
+    "Voice, Audio & Music"
+  ],
+  "Nwflower/dsh-chat-import": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "OAI/OpenAPI-Specification": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "OP-Engineering/link-preview-js": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "OneMana-Soft/OneCamp-fe": [
+    "Apps & Utilities",
+    "Notes & Productivity"
+  ],
+  "OpenBMB/MiniCPM": [
+    "LLM Tooling",
+    "Local Models & Inference"
+  ],
+  "OpenEPaperLink/OpenEPaperLink": [
+    "Hardware & Robotics",
+    "Hardware, IoT & Robotics"
+  ],
+  "OpenHands/OpenHands": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "OpenSenseNova/SenseNova-Skills": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "OpenVGLab/OmniLottie": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "PKUFlyingPig/cs-self-learning": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "PaddlePaddle/PaddleSeg": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "PanJiaChen/vue-element-admin": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "Panniantong/Agent-Reach": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "Piebald-AI/claude-code-system-prompts": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "PostHog/posthog": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "Pradumnasaraf/DevOps": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "Prismer-AI/Prismer": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "ProxyShard/ShardBrowser": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "Robbyant/lingbot-map": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "SakanaAI/CoffeeBench": [
+    "LLM Tooling",
+    "Observability & Evals"
+  ],
+  "SakanaAI/ShinkaEvolve": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "Sakshxm1/hermes-agency-orchestrator": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "ServiceNow/BrowserGym": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "ShawnPana/phone-harness": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "SpaceZephyr/design-buddy": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "Stability-AI/generative-models": [
+    "Media",
+    "Image Generation & Editing"
+  ],
+  "StarTrail-org/PixelRAG": [
+    "LLM Tooling",
+    "RAG & Search"
+  ],
+  "Sumanth077/Hands-On-AI-Engineering": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "SylphxAI/anymd": [
+    "Media",
+    "Documents, Slides & OCR"
+  ],
+  "THUDM/GLM": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "Taoidle/plan-cascade": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "Team-Commonly/commonly": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "TencentCloud/Octop": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "TheMattBerman/meta-ads-kit": [
+    "Automation & DevOps",
+    "Workflow Automation"
+  ],
+  "TimNekk/Gigapixel": [
+    "Media",
+    "Image Generation & Editing"
+  ],
+  "Tracer-Cloud/opensre": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "UniBee-Billing/unibee": [
+    "Finance",
+    "Finance, Trading & Business"
+  ],
+  "Unity-Technologies/ECSGalaxySample": [
+    "Apps & Utilities",
+    "Games & Game Engines"
+  ],
+  "Untrivial-ai/agent-orchestrator": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "VRSEN/OpenSwarm": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "VedAstro/VedAstro": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "VladSez/easy-invoice-pdf": [
+    "Finance",
+    "Finance, Trading & Business"
+  ],
+  "WickyNilliams/headroom.js": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "YanWenKun/Hunyuan3D-2-WinPortable": [
+    "Graphics & Animation",
+    "3D & WebGL"
+  ],
+  "YoanWai/agent-manager": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "Zippland/worth-calculator": [
+    "Finance",
+    "Finance, Trading & Business"
+  ],
+  "aaif-goose/goose": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "abi/screenshot-to-code": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "abundantbeing/hermes-browser-extension": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "acamposuribe/p5.brush": [
+    "Graphics & Animation",
+    "Animation, Canvas & SVG"
+  ],
+  "achrefelouafi/WaterThreeJS": [
+    "Graphics & Animation",
+    "3D & WebGL"
+  ],
+  "adithya-s-k/omniparse": [
+    "Media",
+    "Documents, Slides & OCR"
+  ],
+  "adrianhajdin/ai-resume-analyzer": [
+    "LLM Tooling",
+    "Chat UIs & LLM Apps"
+  ],
+  "aduermael/herm": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "affaan-m/ECC": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "agentplugins/agent-plugins-spec": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "agentsmd/agents.md": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "agenvoy/Agenvoy": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "alexhuang13/FlowBalance": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "algorithmicsuperintelligence/openevolve": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "alibaba/zvec": [
+    "LLM Tooling",
+    "RAG & Search"
+  ],
+  "alirezarezvani/claude-skills": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "allenai/olmocr": [
+    "Media",
+    "Documents, Slides & OCR"
+  ],
+  "alvarotrigo/fullPage.js": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "amirmushichge/tea-leaf-scroll-world": [
+    "Graphics & Animation",
+    "Animation, Canvas & SVG"
+  ],
+  "ankur-anand/unisondb": [
+    "Data & ML",
+    "Databases"
+  ],
+  "anomalyco/sst": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "anthropics/knowledge-work-plugins": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "antonbabenko/deliberation": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "antvis/Infographic": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "apache/casbin": [
+    "Security",
+    "Security Tools"
+  ],
+  "apache/echarts": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "apache/superset": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "apify/crawlee": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "ashawkey/stable-dreamfusion": [
+    "Graphics & Animation",
+    "3D & WebGL"
+  ],
+  "asklokesh/loki-mode": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "assistant-ui/assistant-ui": [
+    "LLM Tooling",
+    "Chat UIs & LLM Apps"
+  ],
+  "astral-sh/uv": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "automatis-tools/agents-can-communicate": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "bagisto/bagisto": [
+    "Finance",
+    "Finance, Trading & Business"
+  ],
+  "bagisto/opensource-ecommerce-mobile-app": [
+    "Finance",
+    "Finance, Trading & Business"
+  ],
+  "beadbox/beadbox": [
+    "Apps & Utilities",
+    "Notes & Productivity"
+  ],
+  "bergside/typeui": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "bklit/bklit-ui": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "brendan-appstart/bead-me-up-scotty": [
+    "Apps & Utilities",
+    "Notes & Productivity"
+  ],
+  "browser-use/jev-ultrafast": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "builderz-labs/mission-control": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "bytebase/bytebase": [
+    "Data & ML",
+    "Databases"
+  ],
+  "bytedance/deer-flow": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "catboost/catboost": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "cbrock84/headcount": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "chaitanyagiri/munder-difflin": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "chartjs/Chart.js": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "chatboxai/chatbox": [
+    "LLM Tooling",
+    "Chat UIs & LLM Apps"
+  ],
+  "christopherkarani/Wax": [
+    "AI Agents",
+    "Agent Memory & Knowledge Graphs"
+  ],
+  "cobusgreyling/loop-engineering": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "coco-research/coco": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "code-yeongyu/lazycodex": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "codecrafters-io/build-your-own-x": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "coderamp-labs/gitingest": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "codrops/SidebarTransitions": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "coldteadotai/pr-lens": [
+    "AI Coding",
+    "Code Search, Review & Analysis"
+  ],
+  "coroot/coroot": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "cortexkit/aft": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "cosmicstack-labs/mercury-agent-skills": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "crater-invoice-inc/crater": [
+    "Finance",
+    "Finance, Trading & Business"
+  ],
+  "creativetimofficial/material-dashboard-react": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "croffasia/itsaplan": [
+    "Apps & Utilities",
+    "Notes & Productivity"
+  ],
+  "csound/csound": [
+    "Media",
+    "Voice, Audio & Music"
+  ],
+  "curl/curl": [
+    "Apps & Utilities",
+    "Terminal & CLI"
+  ],
+  "cursor/community-plugins": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "cursor/plugins": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "cuthbertLab/music21": [
+    "Media",
+    "Voice, Audio & Music"
+  ],
+  "cyberbotics/webots": [
+    "Hardware & Robotics",
+    "Hardware, IoT & Robotics"
+  ],
+  "d3/d3": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "d3/d3-shape": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "davidjerleke/embla-carousel": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "daytonaio/daytona": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "dbt-labs/dbt": [
+    "Data & ML",
+    "Databases"
+  ],
+  "debpalash/VoiceStudio": [
+    "Media",
+    "Voice, Audio & Music"
+  ],
+  "decolua/9router": [
+    "LLM Tooling",
+    "Gateways & Proxies"
+  ],
+  "deepseek-ai/deepseek-harness": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "diegosouzapw/OmniRoute": [
+    "LLM Tooling",
+    "Gateways & Proxies"
+  ],
+  "dmmulroy/anti-slop": [
+    "AI Coding",
+    "Code Search, Review & Analysis"
+  ],
+  "drona23/claude-token-efficient": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "duriantaco/skylos": [
+    "AI Coding",
+    "Code Search, Review & Analysis"
+  ],
+  "dwzhu-pku/PaperBanana": [
+    "Media",
+    "Image Generation & Editing"
+  ],
+  "dyad-sh/dyad": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "e2b-dev/code-interpreter": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "elbwalker/walkerOS": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "elder-plinius/CL4R1T4S": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "elie222/rakazo": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "ellisonleao/sharer.js": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "eracle/OpenOutreach": [
+    "Automation & DevOps",
+    "Workflow Automation"
+  ],
+  "erlang/otp": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "every-app/open-seo": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "experiencor/image-to-3d-bbox": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "f/prompts.chat": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "facebookresearch/detectron2": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "facebookresearch/faiss": [
+    "LLM Tooling",
+    "RAG & Search"
+  ],
+  "facebookresearch/segment-anything": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "farion1231/cc-switch": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "feathericons/feather": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "ferdinandobons/brand-docs": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "ferdous-alam/GenCAD": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "fighting41love/funNLP": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "fiorastudio/buddy": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "firecrawl/fireplexity": [
+    "LLM Tooling",
+    "RAG & Search"
+  ],
+  "firecrawl/open-agent-builder": [
+    "Automation & DevOps",
+    "Workflow Automation"
+  ],
+  "firecrawl/open-scouts": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "first-tree-ai/first-tree": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "flipped-aurora/gin-vue-admin": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "florinpop17/app-ideas": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "flxzt/rnote": [
+    "Apps & Utilities",
+    "Notes & Productivity"
+  ],
+  "framerslab/agentos": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "framesjs/frames.js": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "freeCodeCamp/freeCodeCamp": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "freemocap/freemocap": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "fynnfluegge/agtx": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "g-battaglia/Astrologer-API": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "galfrevn/apollo": [
+    "Hardware & Robotics",
+    "Hardware, IoT & Robotics"
+  ],
+  "garrytan/gstack": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "gemini-cli-extensions/workspace": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "getsentry/warden": [
+    "AI Coding",
+    "Code Search, Review & Analysis"
+  ],
+  "github-tools/github-release-notes": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "githubnext/chopin": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "gitroomhq/postiz-app": [
+    "Automation & DevOps",
+    "Workflow Automation"
+  ],
+  "glincker/thesvg": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "gnab/remark": [
+    "Media",
+    "Documents, Slides & OCR"
+  ],
+  "gnekt/My-Brain-Is-Full-Crew": [
+    "Apps & Utilities",
+    "Notes & Productivity"
+  ],
+  "go-gitea/gitea": [
+    "Apps & Utilities",
+    "Self-Hosted"
+  ],
+  "godotengine/godot": [
+    "Apps & Utilities",
+    "Games & Game Engines"
+  ],
+  "google-deepmind/alphaevolve_repository_of_problems": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "google-deepmind/seeing_without_pixels": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "google-labs-code/design.md": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "google-labs-code/stitch-skills": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "google/adk-python": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "google/langextract": [
+    "Media",
+    "Documents, Slides & OCR"
+  ],
+  "google/magika": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "grafana/grafana": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "gregce/tortie": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "grocy/grocy": [
+    "Apps & Utilities",
+    "Self-Hosted"
+  ],
+  "guillaumemeyer/watermarks-remover": [
+    "Media",
+    "Image Generation & Editing"
+  ],
+  "haifengl/smile": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "hakimel/reveal.js": [
+    "Media",
+    "Documents, Slides & OCR"
+  ],
+  "harlan-zw/nuxt-seo": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "harness/harness": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "harnessclaw/harnessclaw": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "headroomlabs-ai/headroom": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "hexgrad/kokoro": [
+    "Media",
+    "Voice, Audio & Music"
+  ],
+  "hexo-ai/sia": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "higgsfield-ai/higgsfield": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "highlight/highlight": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "hubotio/hubot": [
+    "Automation & DevOps",
+    "Workflow Automation"
+  ],
+  "hugohe3/ppt-master": [
+    "Media",
+    "Documents, Slides & OCR"
+  ],
+  "hyperdxio/hyperdx": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "i18next/i18next": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "i18next/react-i18next": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "ideogram-oss/ideogram4": [
+    "Media",
+    "Image Generation & Editing"
+  ],
+  "iii-hq/iii": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "ilang-ai/autocode": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "invertase/docs.page": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "isaac-mason/box3d.js": [
+    "Graphics & Animation",
+    "3D & WebGL"
+  ],
+  "jamditis/claude-skills-journalism": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "javabuddy/best-system-design-resources": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "jeecgboot/JeecgBoot": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "jina-ai/reader": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "jingyaogong/minimind": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "jlevy/the-art-of-command-line": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "jonobr1/two.js": [
+    "Graphics & Animation",
+    "Animation, Canvas & SVG"
+  ],
+  "jotson/ridiculous_coding": [
+    "Apps & Utilities",
+    "Games & Game Engines"
+  ],
+  "juyterman1000/entroly": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "karpathy/nanochat": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "keta1930/agent-graph": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "keycloak/keycloak": [
+    "Security",
+    "Security Tools"
+  ],
+  "krauseler/muxcard": [
+    "Hardware & Robotics",
+    "Hardware, IoT & Robotics"
+  ],
+  "kripken/ammo.js": [
+    "Graphics & Animation",
+    "3D & WebGL"
+  ],
+  "kyegomez/OpenMythos": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "kyungseo/skillstead": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "kyverno/kyverno": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "langchain-ai/langchain": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "langchain-ai/langgraph": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "langfuse/langfuse": [
+    "LLM Tooling",
+    "Observability & Evals"
+  ],
+  "langgenius/dify": [
+    "Automation & DevOps",
+    "Workflow Automation"
+  ],
+  "lencx/Noi": [
+    "LLM Tooling",
+    "Chat UIs & LLM Apps"
+  ],
+  "lewislulu/html-ppt-skill": [
+    "Media",
+    "Documents, Slides & OCR"
+  ],
+  "liangdabiao/Seedance2-Storyboard-Generator": [
+    "Media",
+    "Video"
+  ],
+  "lichess-org/lila": [
+    "Apps & Utilities",
+    "Games & Game Engines"
+  ],
+  "lobehub/lobe-icons": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "logto-io/logto": [
+    "Security",
+    "Security Tools"
+  ],
+  "loopx-project/loopx": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "macro-inc/macro": [
+    "Apps & Utilities",
+    "Notes & Productivity"
+  ],
+  "madhvantyagi/SOUL.md": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "makeplane/plane": [
+    "Apps & Utilities",
+    "Notes & Productivity"
+  ],
+  "marmelab/react-admin": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "masamasa59/ai-agent-papers": [
+    "Lists & Learning",
+    "Awesome Lists"
+  ],
+  "matthiasn/lotti": [
+    "Apps & Utilities",
+    "Notes & Productivity"
+  ],
+  "mattpocock/course-video-manager": [
+    "Media",
+    "Video"
+  ],
+  "mattpocock/dictionary-of-ai-coding": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "mco-org/squad": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "melgarafael/DeskcommCRM": [
+    "Finance",
+    "Finance, Trading & Business"
+  ],
+  "michaelshimeles/skills": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "michalparkola/tapestry-skills": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "microsoft/ArgusAgent": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "microsoft/LoRA": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "microsoft/PowerToys": [
+    "Apps & Utilities",
+    "Desktop & Mobile Apps"
+  ],
+  "microsoft/Webwright": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "microsoft/data-formulator": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "microsoft/lida": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "microsoft/microsoft-ui-xaml": [
+    "Apps & Utilities",
+    "Desktop & Mobile Apps"
+  ],
+  "microsoft/rStar": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "microsoft/skills": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "microsoft/tgrep": [
+    "AI Coding",
+    "Code Search, Review & Analysis"
+  ],
+  "mikehasa/agentacct": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "milind-soni/OpenMausBot": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "minnesotanlp/meta-n": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "miurla/morphic": [
+    "LLM Tooling",
+    "RAG & Search"
+  ],
+  "mksglu/context-mode": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "modular/modular": [
+    "LLM Tooling",
+    "Local Models & Inference"
+  ],
+  "mozilla-ai/any-agent": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "mshumer/Claude-of-Duty": [
+    "Apps & Utilities",
+    "Games & Game Engines"
+  ],
+  "mvanhorn/last30days-skill": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "nahid-sparktales/agent-dispatcher": [
+    "AI Coding",
+    "Code Search, Review & Analysis"
+  ],
+  "ndrscalia/asciify-them": [
+    "Media",
+    "Image Generation & Editing"
+  ],
+  "negomi/react-burger-menu": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "netdata/netdata": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "neuron-one/GODMODE": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "newcat/baklavajs": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "newrelic/node-newrelic": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "nextlevelbuilder/goclaw": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "nexu-io/motion-anything": [
+    "Graphics & Animation",
+    "Animation, Canvas & SVG"
+  ],
+  "nexu-io/open-design": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "nidhinjs/prompt-master": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "nightly-labs/openbot": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "niklasvh/html2canvas": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "nilbuild/slim": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "nolly-studio/cult-ui": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "nwp/suno-song-creator-plugin": [
+    "Media",
+    "Voice, Audio & Music"
+  ],
+  "official-stockfish/Stockfish": [
+    "Apps & Utilities",
+    "Games & Game Engines"
+  ],
+  "open-slide/open-slide": [
+    "Media",
+    "Documents, Slides & OCR"
+  ],
+  "openai/codex-plugin-cc": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "openai/tiktoken": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "openclaw/clawpatch": [
+    "AI Coding",
+    "Code Search, Review & Analysis"
+  ],
+  "openclaw/openclaw": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "openma-ai/open-managed-agents": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "openobserve/openobserve": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "oraios/serena": [
+    "MCP",
+    "MCP Servers & Tools"
+  ],
+  "osaurus-ai/osaurus": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "outpacelabs/avatars": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "oven-sh/bun": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "pa7/heatmap.js": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "paper-design/paper-mono": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "parallel-web/parallel-cookbook": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "parcadei/Continuous-Claude-v3": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "pbakaus/impeccable": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "pcrlnd/deew": [
+    "Media",
+    "Voice, Audio & Music"
+  ],
+  "penecho/penecho": [
+    "LLM Tooling",
+    "Chat UIs & LLM Apps"
+  ],
+  "petergyang/no-ai-slop": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "pipeshub-ai/pipeshub-ai": [
+    "LLM Tooling",
+    "RAG & Search"
+  ],
+  "piroor/treestyletab": [
+    "Apps & Utilities",
+    "Desktop & Mobile Apps"
+  ],
+  "plausible/analytics": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "pmndrs/xr": [
+    "Graphics & Animation",
+    "3D & WebGL"
+  ],
+  "powerfooI/roamgate": [
+    "Apps & Utilities",
+    "Terminal & CLI"
+  ],
+  "practical-tutorials/project-based-learning": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "processing/p5.js": [
+    "Graphics & Animation",
+    "Animation, Canvas & SVG"
+  ],
+  "public-apis/public-apis": [
+    "Lists & Learning",
+    "Awesome Lists"
+  ],
+  "pydantic/pydantic-ai": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "qbatch/heatmap-rails": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "quickwit-oss/quickwit": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
+  "radixark/miles": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "razzant/ouroboros": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "realworld-apps/realworld": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "redis/redis": [
+    "Data & ML",
+    "Databases"
+  ],
+  "release-drafter/release-drafter": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "repalash/Open-Shaders": [
+    "Graphics & Animation",
+    "3D & WebGL"
+  ],
+  "reubenstr/ElectroPup": [
+    "Hardware & Robotics",
+    "Hardware, IoT & Robotics"
+  ],
+  "roboflow/supervision": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "rodmena-limited/stabilize": [
+    "Automation & DevOps",
+    "Workflow Automation"
+  ],
+  "roundcube/roundcubemail": [
+    "Email",
+    "Email Tools & Servers"
+  ],
+  "rtk-ai/rtk": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "run-llama/llama_index": [
+    "LLM Tooling",
+    "RAG & Search"
+  ],
+  "runwayml/try-on-chrome-extension": [
+    "Media",
+    "Image Generation & Editing"
+  ],
+  "ruvnet/RuView": [
+    "Hardware & Robotics",
+    "Hardware, IoT & Robotics"
+  ],
+  "ruvnet/ruflo": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "ryanmcdermott/clean-code-javascript": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "sansan0/TrendRadar": [
+    "Automation & DevOps",
+    "Workflow Automation"
+  ],
+  "scanaislop/aislop": [
+    "AI Coding",
+    "Code Search, Review & Analysis"
+  ],
+  "scottstts/Threejs-Awesome-Graphics-Agent-Skills": [
+    "Graphics & Animation",
+    "3D & WebGL"
+  ],
+  "seatgeek/mailroom": [
+    "Email",
+    "Email Tools & Servers"
+  ],
+  "shadcn-labs/agentcn": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "shadcndashboard/shadcndashboard": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "shanraisshan/claude-code-best-practice": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "shridarpatil/whatomate": [
+    "Automation & DevOps",
+    "Workflow Automation"
+  ],
+  "sidinsearch/superbrain": [
+    "Apps & Utilities",
+    "Notes & Productivity"
+  ],
+  "sigoden/aichat": [
+    "LLM Tooling",
+    "Chat UIs & LLM Apps"
+  ],
+  "simota/agent-skills": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "simplex-chat/simplex-chat": [
+    "Apps & Utilities",
+    "Desktop & Mobile Apps"
+  ],
+  "simstudioai/sim": [
+    "Automation & DevOps",
+    "Workflow Automation"
+  ],
+  "simular-ai/Agent-S": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "skhanzad/Selective-Amnesia": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "softspark/ai-toolkit": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "solatis/claude-config": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "stackblitz/bolt-slides": [
+    "Media",
+    "Documents, Slides & OCR"
+  ],
+  "stephaneAG/Espruino-Cozmo": [
+    "Hardware & Robotics",
+    "Hardware, IoT & Robotics"
+  ],
+  "strapi/strapi": [
+    "Apps & Utilities",
+    "Self-Hosted"
+  ],
+  "superdesigndev/treg": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "suzuran0y/CCTV-Smartphone-AI-Monitoring": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "tauri-apps/tauri": [
+    "Apps & Utilities",
+    "Desktop & Mobile Apps"
+  ],
+  "teamchong/pxpipe": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "tensorflow/tfjs": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "theatre-js/theatre": [
+    "Graphics & Animation",
+    "Animation, Canvas & SVG"
+  ],
+  "thesysdev/appless": [
+    "Apps & Utilities",
+    "Desktop & Mobile Apps"
+  ],
+  "thesysdev/openui": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "thruwire/foreman": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "tinacms/tinacms": [
+    "Apps & Utilities",
+    "Self-Hosted"
+  ],
+  "tinyhumansai/openhuman": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "tmchow/headroom": [
+    "AI Coding",
+    "Prompts & Context Engineering"
+  ],
+  "tobi/try": [
+    "Apps & Utilities",
+    "Terminal & CLI"
+  ],
+  "tonsky/FiraCode": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "tractorjuice/arc-kit": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "tradingview/lightweight-charts": [
+    "Data & ML",
+    "Charts, Analytics & Dashboards"
+  ],
+  "triggerdotdev/trigger.dev": [
+    "Automation & DevOps",
+    "Workflow Automation"
+  ],
+  "trycompai/crm": [
+    "Finance",
+    "Finance, Trading & Business"
+  ],
+  "trycua/cua": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "tsur/canvasjs": [
+    "Graphics & Animation",
+    "Animation, Canvas & SVG"
+  ],
+  "tw93/Pake": [
+    "Apps & Utilities",
+    "Desktop & Mobile Apps"
+  ],
+  "twisted/towncrier": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "twitter/the-algorithm": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "ultraworkers/claw-code": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "unclecode/crawl4ai": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
+  "unslothai/unsloth": [
+    "LLM Tooling",
+    "Local Models & Inference"
+  ],
+  "uptrain-ai/uptrain": [
+    "LLM Tooling",
+    "Observability & Evals"
+  ],
+  "uzairansaruzi/hermex": [
+    "Apps & Utilities",
+    "Desktop & Mobile Apps"
+  ],
+  "vectal-labs/repo-sync": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "vedika-io/xalen-ephemeris": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "vellum-ai/vellum-assistant": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "vercel-labs/tersa": [
+    "Automation & DevOps",
+    "Workflow Automation"
+  ],
+  "vercel/eve": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "vercel/turborepo": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "vibegameengine/web-starter-kit": [
+    "Apps & Utilities",
+    "Games & Game Engines"
+  ],
+  "vietnh1009/ASCII-generator": [
+    "Media",
+    "Image Generation & Editing"
+  ],
+  "virgiliojr94/book-to-skill": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "voidmatcha/e2e-skills": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "voyager-crew/voyager": [
+    "LLM Tooling",
+    "Chat UIs & LLM Apps"
+  ],
+  "wandb/openui": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "warpdotdev/warp": [
+    "Apps & Utilities",
+    "Terminal & CLI"
+  ],
+  "wasp-lang/open-saas": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "wassermanproductions/storyboard-reference-studio": [
+    "Media",
+    "Image Generation & Editing"
+  ],
+  "webiny/webiny-js": [
+    "Apps & Utilities",
+    "Self-Hosted"
+  ],
+  "webmachinelearning/webmcp": [
+    "MCP",
+    "MCP Servers & Tools"
+  ],
+  "webslides/WebSlides": [
+    "Media",
+    "Documents, Slides & OCR"
+  ],
+  "wekan/wekan": [
+    "Apps & Utilities",
+    "Notes & Productivity"
+  ],
+  "were-orbit/orbit-starter": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "wesammustafa/Claude-Code-Everything-You-Need-to-Know": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "whitelonng/mancode": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
+  "willwulfken/MidJourney-Styles-and-Keywords-Reference": [
+    "Media",
+    "Image Generation & Editing"
+  ],
+  "wquguru/harness-books": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "wshobson/agents": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "wuisabel-gif/MemWhale": [
+    "AI Agents",
+    "Agent Memory & Knowledge Graphs"
+  ],
+  "xai-org/x-algorithm": [
+    "Data & ML",
+    "Machine Learning"
+  ],
+  "xandemon/developer-icons": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "ximinng/HiVG": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "xxlong0/Wonder3D": [
+    "Graphics & Animation",
+    "3D & WebGL"
+  ],
+  "xyflow/xyflow": [
+    "Web & Frontend",
+    "UI Components & Design"
+  ],
+  "yaalalabs/agent-kernel": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "yc-software/qm": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "yifanzhang-pro/recurrent-looped-tranformer": [
+    "Data & ML",
+    "Research Papers & Models"
+  ],
+  "yikart/AiToEarn": [
+    "Automation & DevOps",
+    "Workflow Automation"
+  ],
+  "ykdojo/claude-code-tips": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "yogsoth-ai/de-anthropocentric-research-engine": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "yusufkaraaslan/Skill_Seekers": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "zai-org/GLM-5": [
+    "LLM Tooling",
+    "Local Models & Inference"
+  ],
+  "zaidmukaddam/scira": [
+    "LLM Tooling",
+    "RAG & Search"
+  ],
+  "zed-industries/zed": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
+  "zhayujie/CowAgent": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "zilliztech/claude-context": [
+    "AI Coding",
+    "Code Search, Review & Analysis"
+  ],
+  "zilmarinen/UIColor-Pantone": [
+    "Apps & Utilities",
+    "Desktop & Mobile Apps"
+  ],
+  "zubair-trabzada/ai-marketing-claude": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "zubair-trabzada/ai-sales-team-claude": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "zubair-trabzada/geo-seo-claude": [
+    "AI Coding",
+    "Skills & Plugins"
+  ],
+  "zumerlab/snapdom": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ]
+}
