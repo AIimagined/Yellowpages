@@ -13,7 +13,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 - [Lists & Learning](#lists--learning) (105)
 - [Email](#email) (40)
 - [Media](#media) (194)
-- [Graphics & Animation](#graphics--animation) (115)
+- [Graphics & Animation](#graphics--animation) (114)
 - [Security](#security) (33)
 - [Hardware & Robotics](#hardware--robotics) (22)
 - [Finance](#finance) (28)
@@ -26,6 +26,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 - [Web & Frontend](#web--frontend) (58)
 - [Apps & Utilities](#apps--utilities) (56)
 - [Developer Tools](#developer-tools) (46)
+- [Uncategorized](#uncategorized) (1)
 
 ## Lists & Learning
 
@@ -88,7 +89,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [hesreallyhim/awesome-claude-code-output-styles-that-i-really-like](https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like) | A curated collection of probably the most awesome feature of Claude Code - Output Styles | - | MIT | 86 | 🟡 2025-11-21 |
 | [moosl/awsome-gpt-image-2-prompts](https://github.com/moosl/awsome-gpt-image-2-prompts) [🔗](https://aiistudio.com/) | - | - | MIT | 81 | 🟢 2026-08-08 |
 | [iwanjunaid/awesome-javascript](https://github.com/iwanjunaid/awesome-javascript) | A Curated List of Awesome JavaScript Frameworks, Libraries, Tools and Resources | - | MIT | 67 | 🔴 2021-07-08 |
-| [noahelhadedy/free-icon-resources](https://github.com/noahelhadedy/free-icon-resources) | A curated list of 150+ free icon resources for designers &amp; developers — open-source icon sets, brand logos, animated &amp; 3D icons, emoji, flags, icon s... | Python | Custom | 64 | 🟢 2026-07-15 |
+| [noahelhadedy/free-icon-resources](https://github.com/noahelhadedy/free-icon-resources) | A curated list of 150+ free icon resources for designers &amp; developers — open-source icon sets, brand logos, animated &amp; 3D icons, emoji, flags, icon s... | Python | Custom | 65 | 🟢 2026-07-15 |
 | [aliaihub/awesome-jev-usecases](https://github.com/aliaihub/awesome-jev-usecases) | Evidence-backed use cases, patterns, and guidance for building with Jev, TypeSafe AI's System One model. Every claim is labeled and sourced. | - | Custom | 22 | 🟢 2026-09-29 |
 | [Anil-matcha/awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) | A curated list of ready-to-use Grok bot templates across productivity, sales, marketing, ops, success, and personal workflows. | - | None | 20 | 🟢 2026-09-20 |
 | [Markjinli/awesome-hyperframes-prompt](https://github.com/Markjinli/awesome-hyperframes-prompt) | 🎬 精选 HyperFrames Prompt 模板库 — 每个模板包含 Prompt + HTML 成品 + 效果说明，让 AI 视频创作开箱即用 | HTML | None | 15 | 🟡 2026-05-14 |
@@ -243,7 +244,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [huytranvan2010/AI-auto-generate-video](https://github.com/huytranvan2010/AI-auto-generate-video) | Auto generate AI video with hyperframes | HTML | MIT | 386 | 🟢 2026-09-13 |
 | [heygen-com/hyperframes-launch-video](https://github.com/heygen-com/hyperframes-launch-video) | - | HTML | None | 253 | 🟡 2026-04-16 |
 | [Endless1936/cut-motion](https://github.com/Endless1936/cut-motion) | A natural-language workflow for turning talking-head footage into tightly edited videos with ChatCut, HyperFrames captions, GSAP motion graphics, and high-qu... | JavaScript | Apache-2.0 | 246 | 🟢 2026-09-22 |
-| [Anil-matcha/vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) | 🎬 Turn any topic into a finished Vox-style paper-collage explainer / motion graphics video — script, collage keyframes, animation, voice-over, music &amp; ca... | Python · FFmpeg | None | 225 | 🟢 2026-09-02 |
+| [Anil-matcha/vox-ai-motion-graphics-generator](https://github.com/Anil-matcha/vox-ai-motion-graphics-generator) | 🎬 Turn any topic into a finished Vox-style paper-collage explainer / motion graphics video — script, collage keyframes, animation, voice-over, music &amp; ca... | Python · FFmpeg | None | 226 | 🟢 2026-09-02 |
 | [MegaTroll222/VOX-COLLAGE-BROLL](https://github.com/MegaTroll222/VOX-COLLAGE-BROLL) | Turn one spoken line into a paper-collage explainer video — Claude Code skill + MaxFusion MCP. English adaptation of gbro-collage-broll by pyang5166. | - | Custom | 213 | 🟢 2026-07-17 |
 | [kevinbadi/hyperedit](https://github.com/kevinbadi/hyperedit) | AI-powered video editor with FFMPEG, Remotion, &amp; Obsidian Agents Baked in - POWERED BY JEV | TypeScript | None | 206 | 🟢 2026-09-21 |
 | [remotion-dev/html-in-canvas](https://github.com/remotion-dev/html-in-canvas) [🔗](https://remotion.dev/html-in-canvas) | - | TypeScript | None | 197 | 🟡 2026-05-03 |
@@ -414,7 +415,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 
 ## Graphics & Animation
 
-### 3D & WebGL (57)
+### 3D & WebGL (56)
 
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
@@ -471,7 +472,6 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [thebuggeddev/paper-roll](https://github.com/thebuggeddev/paper-roll) [🔗](https://paper-roll-nine.vercel.app) | An infinite physically rolling paper strip that prints an endless portfolio built in Three.js with Fable 5 | HTML | None | 72 | 🟢 2026-07-22 |
 | [3dgscloud/GaussForge](https://github.com/3dgscloud/GaussForge) [🔗](https://www.3dgsviewers.com/) | A high-performance Gaussian Splatting format conversion library that supports lossless conversion between multiple mainstream formats. | C++ | Apache-2.0 | 66 | 🟡 2026-05-25 |
 | [ToxSam/os3a-gallery](https://github.com/ToxSam/os3a-gallery) [🔗](https://www.opensource3dassets.com/) | A curated discovery platform for high-quality, freely available 3D assets (GLB format). Browse hundreds CC0 models with clear open source licensing. Built wi... | TypeScript · Next.js | None | 47 | 🟡 2026-02-10 |
-| [mrdoob/toys](https://github.com/mrdoob/toys) [🔗](https://mrdoob.github.io/toys/) | - | JavaScript | MIT | 40 | 🟢 2026-07-06 |
 | [kaolti/jungle-cursor-canopy](https://github.com/kaolti/jungle-cursor-canopy) [🔗](https://kaolti.github.io/jungle-cursor-canopy/) | Interactive procedural jungle canopy built with Three.js and GSAP | HTML · Three.js, WebGL | MIT | 13 | 🟢 2026-07-21 |
 | [kaolti/omarchy-cosmos-screensaver](https://github.com/kaolti/omarchy-cosmos-screensaver) | A GLSL screensaver for Omarchy: the wordmark grows out of pixel squares, catches a refracting glass ripple, then dissolves. Rendered by Ghostty. | HTML | MIT | 8 | 🟢 2026-08-29 |
 | [hxmzaehsan/last-train-records](https://github.com/hxmzaehsan/last-train-records) [🔗](https://hxmzaehsan.github.io/last-train-records/) | A vinyl record that becomes a miniature late-night Tokyo railway neighbourhood, rendered live in Three.js. | TypeScript · Three.js, WebGL | Custom | 3 | 🟢 2026-08-12 |
@@ -601,7 +601,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [fossasia/magic-epaper-hardware](https://github.com/fossasia/magic-epaper-hardware) | Magic ePaper Hardware | - | Apache-2.0 | 1.0k | 🔴 2025-09-25 |
 | [krauseler/muxcard](https://github.com/krauseler/muxcard) [🔗](https://muxcard.com) | A literal credit-card sized computer with E-Paper display, ESP32 and NFC. | - | Custom | 996 | 🟡 2026-05-11 |
 | [matter-js/matter.js](https://github.com/matter-js/matter.js) | A complete typescript implementation of the Matter protocol specification (https://buildwithmatter.com). Includes full support for controller, device, commis... | TypeScript | Apache-2.0 | 902 | 🟢 2026-09-29 |
-| [marshallrichards/turbodrone](https://github.com/marshallrichards/turbodrone) | reverse engineering the best-selling drones on Amazon to control programmatically | Python | Apache-2.0 | 573 | 🟡 2026-06-23 |
+| [marshallrichards/turbodrone](https://github.com/marshallrichards/turbodrone) | reverse engineering the best-selling drones on Amazon to control programmatically | Python | Apache-2.0 | 572 | 🟡 2026-06-23 |
 | [r-morato/HASS-epaper-display](https://github.com/r-morato/HASS-epaper-display) | This project displays key smart home and server stats on a 7.5" e-paper screen using an ESP32-C3 board running ESPHome. | - | MIT | 280 | 🟢 2026-09-14 |
 | [reubenstr/ElectroPup](https://github.com/reubenstr/ElectroPup) | DIY 3D printed quadruped robot. | Python · React Native | None | 242 | 🟢 2026-07-30 |
 | [galfrevn/apollo](https://github.com/galfrevn/apollo) [🔗](https://heyapollo.dev) | The open-source brain for physical agentic devices, powered by Cloudflare Workers. | TypeScript · Bun | MIT | 237 | 🟢 2026-08-17 |
@@ -665,13 +665,13 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) [🔗](https://rohitg00.github.io/pro-workflow/infographic.html) | Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and... | JavaScript | None | 2.9k | 🟢 2026-09-29 |
 | [moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto) [🔗](https://memanto.ai) | Memory that AI Agents Love! | Python · LangChain | MIT | 2.3k | 🟢 2026-09-29 |
 | [codejunkie99/agentic-stack](https://github.com/codejunkie99/agentic-stack) | One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, o... | Python | Apache-2.0 | 2.3k | 🟢 2026-09-26 |
-| [BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect) | A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them to CLAUDE.md and AGENTS.md. | Python | MIT | 1.7k | 🟢 2026-09-20 |
 | [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) [🔗](https://beacon.sh) | The cross-harness, self-improving memory layer for AI agents. | Go | MIT | 1.7k | 🟢 2026-09-29 |
+| [BayramAnnakov/claude-reflect](https://github.com/BayramAnnakov/claude-reflect) | A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them to CLAUDE.md and AGENTS.md. | Python | MIT | 1.7k | 🟢 2026-09-20 |
 | [tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory) | Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Co... | Python · SQLite | MIT | 1.7k | 🟢 2026-09-28 |
 | [0xranx/OpenContext](https://github.com/0xranx/OpenContext) [🔗](https://0xranx.github.io/OpenContext/) | A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop G... | JavaScript · Tauri | MIT | 1.2k | 🟡 2026-06-16 |
 | [christopherkarani/Wax](https://github.com/christopherkarani/Wax) [🔗](https://christopherkarani.github.io/Wax/) | Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. No Server. No API. One File. Pure Swift | Swift | Apache-2.0 | 802 | 🟢 2026-09-28 |
 | [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) [🔗](https://okf-memory.dev) | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disc... | Go | MIT | 738 | 🟢 2026-09-27 |
-| [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) | Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer. | TypeScript · SQLite | MIT | 626 | 🟡 2026-05-03 |
+| [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) | Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer. | TypeScript · SQLite | MIT | 627 | 🟡 2026-05-03 |
 | [LeoYeAI/openclaw-auto-dream](https://github.com/LeoYeAI/openclaw-auto-dream) [🔗](https://myclaw.ai) | Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai | HTML | MIT | 549 | 🟡 2026-03-31 |
 | [caura-ai/caura](https://github.com/caura-ai/caura) [🔗](https://caura.ai) | Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, k... | Python · FastAPI | Apache-2.0 | 541 | 🟢 2026-09-29 |
 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) [🔗](https://misakanet.org) | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. \| https://misakanet.org | Python · SQLite | Apache-2.0 | 517 | 🟢 2026-09-29 |
@@ -773,7 +773,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [The-AI-Republic/pi-dash](https://github.com/The-AI-Republic/pi-dash) [🔗](https://airepublic.com) | AI Agent Orchestration Platform | TypeScript | AGPL-3.0 | 378 | 🟢 2026-09-29 |
 | [AvivK5498/The-Claude-Protocol](https://github.com/AvivK5498/The-Claude-Protocol) | Mutli-Agent orchestration workflow for Claude Code with automated task management using Beads CLI | Python | MIT | 349 | 🟡 2026-02-06 |
 | [eliautobot/my-virtual-office](https://github.com/eliautobot/my-virtual-office) [🔗](https://myvirtualoffice.ai/) | A self-hosted 2D AI workspace for AI Agents | Python | AGPL-3.0 | 333 | 🟢 2026-08-15 |
-| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) [🔗](https://openbot.run/) | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser contro... | TypeScript · Bun, Electron | Custom | 289 | 🟢 2026-09-29 |
+| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) [🔗](https://openbot.run/) | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser contro... | TypeScript · Bun, Electron | Custom | 290 | 🟢 2026-09-29 |
 | [acryldev/acryl](https://github.com/acryldev/acryl) [🔗](https://acryl.dev) | ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent. | TypeScript | MIT | 258 | 🟢 2026-09-29 |
 | [keta1930/agent-graph](https://github.com/keta1930/agent-graph) | Agent Graph is a Multi-Agent System built on the principles of Context Engineering | Python | Apache-2.0 | 230 | 🟢 2026-09-17 |
 | [markus-global/markus](https://github.com/markus-global/markus) [🔗](https://www.markus.global) | The all-in-one AI workforce platform, to build AI agent teams. You are the boss. | TypeScript | Apache-2.0 | 195 | 🟢 2026-09-27 |
@@ -837,7 +837,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [vellum-ai/vellum-assistant](https://github.com/vellum-ai/vellum-assistant) [🔗](https://vellum.ai) | An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time. | TypeScript | MIT | 1.3k | 🟢 2026-09-29 |
 | [mozilla-ai/any-agent](https://github.com/mozilla-ai/any-agent) [🔗](https://docs.mozilla.ai/any-agent) | A single interface to use and evaluate different agent frameworks | Python | Apache-2.0 | 1.2k | 🟢 2026-09-28 |
 | [plasma-ai/fractal](https://github.com/plasma-ai/fractal) | Hierarchical agent loops with recursive self-organization. | Python | Apache-2.0 | 781 | 🟢 2026-09-28 |
-| [framerslab/agentos](https://github.com/framerslab/agentos) [🔗](https://docs.agentos.sh) | TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers. | TypeScript | Apache-2.0 | 673 | 🟢 2026-09-27 |
+| [framerslab/agentos](https://github.com/framerslab/agentos) [🔗](https://docs.agentos.sh) | TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers. | TypeScript | Apache-2.0 | 673 | 🟢 2026-09-29 |
 | [agenvoy/Agenvoy](https://github.com/agenvoy/Agenvoy) [🔗](https://agenvoy.com/) | Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and repairs its own tools, and lets Claude Code, Codex and any MCP client build an... | Go | AGPL-3.0 | 536 | 🟢 2026-09-29 |
 | [shadcn-labs/agentcn](https://github.com/shadcn-labs/agentcn) [🔗](https://agentcn.run) | shadcn/ui, but for building agents. 🤖 | TypeScript | MIT | 479 | 🟢 2026-09-13 |
 | [DougTrajano/pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) [🔗](https://dougtrajano.github.io/pydantic-ai-skills/) | This package implements Agent Skills (https://agentskills.io) support with progressive disclosure for Pydantic AI. Supports filesystem and programmatic skills. | Python | MIT | 374 | 🟢 2026-09-26 |
@@ -858,7 +858,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) [🔗](https://ragflow.io) | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context... | Go | Apache-2.0 | 91.5k | 🟢 2026-09-29 |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) [🔗](https://developers.llamaindex.ai) | LlamaIndex is the document processing platform for AI | Python | MIT | 52.4k | 🟢 2026-09-29 |
 | [facebookresearch/faiss](https://github.com/facebookresearch/faiss) [🔗](https://faiss.ai) | A library for efficient similarity search and clustering of dense vectors. | C++ | MIT | 41.0k | 🟢 2026-09-29 |
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) [🔗](https://pageindex.ai) | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | Python | MIT | 36.9k | 🟢 2026-09-28 |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) [🔗](https://pageindex.ai) | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | Python | MIT | 37.0k | 🟢 2026-09-29 |
 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) [🔗](https://weknora.weixin.qq.com) | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | Go | Custom | 31.2k | 🟢 2026-09-29 |
 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditio... | TypeScript | Custom | 20.1k | 🟢 2026-09-28 |
 | [alibaba/zvec](https://github.com/alibaba/zvec) [🔗](https://zvec.org) | A lightweight, lightning-fast, in-process vector database | C++ | Apache-2.0 | 16.0k | 🟢 2026-09-29 |
@@ -1087,8 +1087,8 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework &amp; software development methodology that works. | Shell | MIT | 292.7k | 🟢 2026-09-27 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) [🔗](https://aihero.dev/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | MIT | 271.8k | 🟢 2026-09-29 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework &amp; software development methodology that works. | Shell | MIT | 292.8k | 🟢 2026-09-27 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) [🔗](https://aihero.dev/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | MIT | 271.9k | 🟢 2026-09-29 |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) [🔗](https://ponytail.dev) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | JavaScript | MIT | 148.0k | 🟢 2026-09-14 |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA | TypeScript | MIT | 134.5k | 🟢 2026-09-29 |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) [🔗](https://skills.addy.ie) | Production-grade engineering skills for AI coding agents. | JavaScript | MIT | 99.8k | 🟢 2026-09-26 |
@@ -1124,7 +1124,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [awesome-skills/5-whys-skill](https://github.com/awesome-skills/5-whys-skill) | A Claude Code skill for systematic 5-Whys root cause analysis - trace problems to fundamental causes, based on Toyota Production System methodology | - | MIT | 60 | 🟡 2025-12-03 |
 | [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) | Karpathy-inspired coding-agent guidelines packaged for Claude Code, Codex, Cursor, Gemini, OpenCode, Aider, Copilot, OpenClaw, and any AGENTS.md or Agent Ski... | JavaScript | MIT | 50 | 🟡 2026-05-11 |
 | [voidmatcha/e2e-skills](https://github.com/voidmatcha/e2e-skills) [🔗](https://www.skills.sh/voidmatcha/e2e-skills) | Playwright and Cypress skills for Claude Code and Codex: generate tests, catch false-green tests and test smells, debug failures. | Python · Playwright | Apache-2.0 | 18 | 🟢 2026-09-20 |
-| [AIimagined/Godmode](https://github.com/AIimagined/Godmode) | Your coding agent says "done." Godmode checks. A local, tamper-evident record of what your agent ran, changed and proved: risky commands stopped before they... | Python | Apache-2.0 | 7 | 🟢 2026-09-27 |
+| [AIimagined/Godmode](https://github.com/AIimagined/Godmode) | Your coding agent says "done." Godmode checks. A local, tamper-evident record of what your agent ran, changed and proved: risky commands stopped before they... | Python | Apache-2.0 | 7 | 🟢 2026-09-29 |
 | [vivekparekh8/patch-receipt](https://github.com/vivekparekh8/patch-receipt) | Autoscreenshots / recording receipts for your PRs via skill. | JavaScript | MIT | 7 | 🟢 2026-08-10 |
 | [rrrrrredy/beforedone](https://github.com/rrrrrredy/beforedone) [🔗](https://rrrrrredy.github.io/beforedone/) | Require fresh, file-bound verification evidence before coding agents declare completion. | Go | Apache-2.0 | 3 | 🟢 2026-09-13 |
 
@@ -1179,7 +1179,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) [🔗](https://openhands.dev) | 🙌 OpenHands: AI-Driven Development | TypeScript | MIT | 89.5k | 🟢 2026-09-29 |
 | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) [🔗](https://screenshottocode.com) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) | Python | MIT | 79.8k | 🟢 2026-09-09 |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) [🔗](https://omo.dev) | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. | TypeScript | Custom | 69.6k | 🟢 2026-09-29 |
-| [cline/cline](https://github.com/cline/cline) [🔗](https://cline.bot) | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | TypeScript | Apache-2.0 | 69.5k | 🟢 2026-09-29 |
+| [cline/cline](https://github.com/cline/cline) [🔗](https://cline.bot) | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. | TypeScript | Apache-2.0 | 69.6k | 🟢 2026-09-29 |
 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) [🔗](http://openinterpreter.com/) | A coding agent for open models like Kimi K3 and GLM 5.3 | Rust | Apache-2.0 | 68.5k | 🟢 2026-09-27 |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) [🔗](https://goose-docs.ai/) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | Rust | Apache-2.0 | 54.8k | 🟢 2026-09-29 |
 | [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) [🔗](https://codewhale.net/) | Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome. | Rust | MIT | 41.0k | 🟢 2026-09-29 |
@@ -1403,7 +1403,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [nektos/act](https://github.com/nektos/act) [🔗](https://nektosact.com) | Run your GitHub Actions locally 🚀 | Go | MIT | 72.2k | 🟢 2026-08-09 |
 | [daytonaio/daytona](https://github.com/daytonaio/daytona) [🔗](https://daytona.io) | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code | - | None | 71.7k | 🟢 2026-07-24 |
 | [getsentry/sentry](https://github.com/getsentry/sentry) [🔗](https://sentry.io) | Developer-first error tracking and performance monitoring | Python · Django | Custom | 44.9k | 🟢 2026-09-29 |
-| [harness/harness](https://github.com/harness/harness) [🔗](https://www.harness.io/open-source) | Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. | Go · Docker | Apache-2.0 | 38.5k | 🟢 2026-09-25 |
+| [harness/harness](https://github.com/harness/harness) [🔗](https://www.harness.io/open-source) | Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. | Go · Docker | Apache-2.0 | 38.5k | 🟢 2026-09-29 |
 | [anomalyco/sst](https://github.com/anomalyco/sst) [🔗](https://sst.dev) | Build full-stack apps on your own infrastructure. | TypeScript | MIT | 26.3k | 🟢 2026-07-12 |
 | [openobserve/openobserve](https://github.com/openobserve/openobserve) [🔗](https://openobserve.ai) | Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated,... | TypeScript | AGPL-3.0 | 22.2k | 🟢 2026-09-29 |
 | [InsForge/InsForge](https://github.com/InsForge/InsForge) [🔗](https://insforge.dev) | The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway t... | TypeScript · Deno, Next.js | Apache-2.0 | 13.0k | 🟢 2026-09-29 |
@@ -1622,3 +1622,11 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [vectal-labs/repo-sync](https://github.com/vectal-labs/repo-sync) | your git repos, always in sync. automatic commits, pulls, and pushes on macOS. | Go | MIT | 73 | 🟢 2026-09-09 |
 | [dderevjanik/pixabay-api](https://github.com/dderevjanik/pixabay-api) | pixabay api, https://pixabay.com/api/docs/ | TypeScript | MIT | 37 | 🟡 2026-02-14 |
 | [lymagics/tanka](https://github.com/lymagics/tanka) [🔗](https://pypi.org/project/tanka/) | True Object-Oriented Python Web Framework. | Python | MIT | 18 | 🟢 2026-09-29 |
+
+## Uncategorized
+
+### Unsorted (1)
+
+| Repository | Details | Stack | License | Stars | Last updated |
+|---|---|---|---|---|---|
+| [mrdoob/toys](https://github.com/mrdoob/toys) [🔗](https://mrdoob.github.io/toys/) | - | JavaScript | MIT | 40 | 🟢 2026-07-06 |
