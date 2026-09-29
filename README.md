@@ -10,9 +10,9 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 
 ## Contents
 
-- [Lists & Learning](#lists--learning) (105)
+- [Lists & Learning](#lists--learning) (106)
 - [Email](#email) (40)
-- [Media](#media) (194)
+- [Media](#media) (193)
 - [Graphics & Animation](#graphics--animation) (114)
 - [Security](#security) (33)
 - [Hardware & Robotics](#hardware--robotics) (22)
@@ -21,16 +21,15 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 - [LLM Tooling](#llm-tooling) (71)
 - [AI Coding](#ai-coding) (241)
 - [MCP](#mcp) (23)
-- [Data & ML](#data--ml) (95)
+- [Data & ML](#data--ml) (96)
 - [Automation & DevOps](#automation--devops) (38)
 - [Web & Frontend](#web--frontend) (58)
 - [Apps & Utilities](#apps--utilities) (56)
 - [Developer Tools](#developer-tools) (46)
-- [Uncategorized](#uncategorized) (1)
 
 ## Lists & Learning
 
-### Awesome Lists (60)
+### Awesome Lists (61)
 
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
@@ -42,6 +41,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [f/prompts.chat](https://github.com/f/prompts.chat) [🔗](https://prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete... | HTML · Next.js | Custom | 171.6k | 🟢 2026-09-09 |
 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) [🔗](https://www.theunwindai.com) | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | Python | Apache-2.0 | 140.2k | 🟢 2026-09-29 |
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) [🔗](https://free-for.dev/) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | HTML | None | 138.9k | 🟢 2026-09-28 |
+| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) [🔗](https://excalidraw.com) | Virtual whiteboard for sketching hand-drawn like diagrams | TypeScript | MIT | 133.2k | 🟢 2026-09-29 |
 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) [🔗](https://getdesign.md/) | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. | - | MIT | 118.8k | 🟢 2026-09-21 |
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Python | None | 75.8k | 🟢 2026-09-18 |
 | [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | - | MIT | 74.4k | 🟡 2026-01-04 |
@@ -175,7 +175,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [usesend/useSend](https://github.com/usesend/useSend) [🔗](https://useSend.com) | Open source alternative to Resend, Sendgrid, Postmark etc. | TypeScript | AGPL-3.0 | 4.7k | 🟢 2026-09-08 |
 | [arikchakma/maily.to](https://github.com/arikchakma/maily.to) [🔗](https://maily.to) | Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. | TypeScript · React | MIT | 4.0k | 🟢 2026-08-28 |
 | [hieunc229/mailflare](https://github.com/hieunc229/mailflare) [🔗](https://mailflare.co) | Email for professionals and teams | TypeScript | AGPL-3.0 | 3.8k | 🟢 2026-09-29 |
-| [zalify/easy-email-editor](https://github.com/zalify/easy-email-editor) [🔗](https://open-source.easyemail.pro) | Easy Email Editor is a feature-rich, top open-source SaaS email editor based on React and MJML. | TypeScript · React | MIT | 3.1k | 🟢 2026-08-13 |
+| [zalify/easy-email-editor](https://github.com/zalify/easy-email-editor) [🔗](https://open-source.easyemail.pro) | Easy Email Editor is a feature-rich, top open-source SaaS email editor based on React and MJML. | TypeScript · React | MIT | 3.2k | 🟢 2026-08-13 |
 | [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) [🔗](https://designer.sendune.com) | Free, open source, HTML email template editor and no code designer. | TypeScript | MIT | 2.3k | 🟡 2026-06-08 |
 | [postalsys/emailengine](https://github.com/postalsys/emailengine) [🔗](https://emailengine.app/) | Headless email client | JavaScript | Custom | 2.2k | 🟢 2026-09-28 |
 | [disposable/disposable](https://github.com/disposable/disposable) | A list of disposable/temporary email address domains | Python | MIT | 1.5k | 🟢 2026-09-29 |
@@ -300,14 +300,13 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [haaarshsingh/loomix](https://github.com/haaarshsingh/loomix) [🔗](https://loomix.harshsingh.me) | Drop-in video player component | TypeScript · React | Apache-2.0 | 244 | 🟢 2026-09-14 |
 | [IBM/extract-textual-insights-from-video](https://github.com/IBM/extract-textual-insights-from-video) | Extract Textual insights from Video | JavaScript | Apache-2.0 | 34 | 🔴 2025-09-17 |
 
-### Voice, Audio & Music (53)
+### Voice, Audio & Music (52)
 
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
-| [openai/whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision | Python | MIT | 109.7k | 🟢 2026-08-31 |
 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) [🔗](https://voicebox.sh) | The open-source AI voice studio. Clone, dictate, create. | TypeScript | MIT | 56.0k | 🟢 2026-08-09 |
 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ | C++ | MIT | 54.0k | 🟢 2026-09-28 |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) [🔗](https://voicestudio.sh) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook cre... | Python · Tauri | AGPL-3.0 | 47.0k | 🟢 2026-09-29 |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) [🔗](https://voicestudio.sh) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook cre... | Python · Tauri | AGPL-3.0 | 47.1k | 🟢 2026-09-29 |
 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) [🔗](https://meetily.ai) | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% loc... | Rust | MIT | 31.2k | 🟢 2026-09-15 |
 | [modelscope/FunASR](https://github.com/modelscope/FunASR) | Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP ser... | Python · PyTorch | MIT | 20.5k | 🟢 2026-09-29 |
 | [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) [🔗](https://tonejs.github.io) | A Web Audio framework for making interactive music in the browser. | TypeScript | MIT | 14.7k | 🟢 2026-09-29 |
@@ -415,7 +414,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 
 ## Graphics & Animation
 
-### 3D & WebGL (56)
+### 3D & WebGL (57)
 
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
@@ -472,15 +471,15 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [thebuggeddev/paper-roll](https://github.com/thebuggeddev/paper-roll) [🔗](https://paper-roll-nine.vercel.app) | An infinite physically rolling paper strip that prints an endless portfolio built in Three.js with Fable 5 | HTML | None | 72 | 🟢 2026-07-22 |
 | [3dgscloud/GaussForge](https://github.com/3dgscloud/GaussForge) [🔗](https://www.3dgsviewers.com/) | A high-performance Gaussian Splatting format conversion library that supports lossless conversion between multiple mainstream formats. | C++ | Apache-2.0 | 66 | 🟡 2026-05-25 |
 | [ToxSam/os3a-gallery](https://github.com/ToxSam/os3a-gallery) [🔗](https://www.opensource3dassets.com/) | A curated discovery platform for high-quality, freely available 3D assets (GLB format). Browse hundreds CC0 models with clear open source licensing. Built wi... | TypeScript · Next.js | None | 47 | 🟡 2026-02-10 |
+| [mrdoob/toys](https://github.com/mrdoob/toys) [🔗](https://mrdoob.github.io/toys/) | - | JavaScript | MIT | 40 | 🟢 2026-07-06 |
 | [kaolti/jungle-cursor-canopy](https://github.com/kaolti/jungle-cursor-canopy) [🔗](https://kaolti.github.io/jungle-cursor-canopy/) | Interactive procedural jungle canopy built with Three.js and GSAP | HTML · Three.js, WebGL | MIT | 13 | 🟢 2026-07-21 |
 | [kaolti/omarchy-cosmos-screensaver](https://github.com/kaolti/omarchy-cosmos-screensaver) | A GLSL screensaver for Omarchy: the wordmark grows out of pixel squares, catches a refracting glass ripple, then dissolves. Rendered by Ghostty. | HTML | MIT | 8 | 🟢 2026-08-29 |
 | [hxmzaehsan/last-train-records](https://github.com/hxmzaehsan/last-train-records) [🔗](https://hxmzaehsan.github.io/last-train-records/) | A vinyl record that becomes a miniature late-night Tokyo railway neighbourhood, rendered live in Three.js. | TypeScript · Three.js, WebGL | Custom | 3 | 🟢 2026-08-12 |
 
-### Animation, Canvas & SVG (58)
+### Animation, Canvas & SVG (57)
 
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
-| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) [🔗](https://excalidraw.com) | Virtual whiteboard for sketching hand-drawn like diagrams | TypeScript | MIT | 133.2k | 🟢 2026-09-29 |
 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) [🔗](https://mermaid.ai/open-source/) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | TypeScript | MIT | 90.5k | 🟢 2026-09-29 |
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) [🔗](https://tt-a1i.github.io/archify/) | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. | JavaScript | MIT | 74.0k | 🟢 2026-09-29 |
 | [juliangarnier/anime](https://github.com/juliangarnier/anime) [🔗](https://animejs.com) | JavaScript animation engine | JavaScript | MIT | 73.2k | 🟢 2026-08-21 |
@@ -551,7 +550,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) [🔗](https://github.com/guillaumemeyer/watermarks-remover) | A privacy-first app that strips AI watermarks from content you own. | Python | MIT | 23.1k | 🟢 2026-09-28 |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | JavaScript | MIT | 23.1k | 🟢 2026-09-14 |
 | [apache/casbin](https://github.com/apache/casbin) [🔗](https://casbin.apache.org/) | Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC. | Go | Apache-2.0 | 20.4k | 🟢 2026-09-11 |
-| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) [🔗](https://docs.nvidia.com/skills/scanning-agent-skills) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks... | Python | Apache-2.0 | 18.6k | 🟢 2026-09-28 |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) [🔗](https://docs.nvidia.com/skills/scanning-agent-skills) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks... | Python | Apache-2.0 | 18.6k | 🟢 2026-09-29 |
 | [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) [🔗](https://obfuscator.io) | A powerful obfuscator for JavaScript and Node.js | TypeScript · Node.js | BSD-2-Clause | 16.3k | 🟢 2026-09-26 |
 | [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) [🔗](https://cryptomator.org) | Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. | Java | GPL-3.0 | 16.2k | 🟢 2026-09-28 |
 | [logto-io/logto](https://github.com/logto-io/logto) [🔗](https://logto.io) | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. | TypeScript | MPL-2.0 | 14.6k | 🟢 2026-09-29 |
@@ -651,7 +650,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 |---|---|---|---|---|---|
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) [🔗](https://claude-mem.ai) | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context... | TypeScript · SQLite | Apache-2.0 | 94.9k | 🟢 2026-09-28 |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) [🔗](https://mem0.ai) | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. | Python | Apache-2.0 | 66.3k | 🟢 2026-09-25 |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) [🔗](https://hindsight.vectorize.io/) | Hindsight: Agent Memory That Learns | Python | MIT | 42.3k | 🟢 2026-09-29 |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) [🔗](https://hindsight.vectorize.io/) | Hindsight: Agent Memory That Learns | Python | MIT | 42.4k | 🟢 2026-09-29 |
 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) [🔗](https://openviking.ai/) | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. | Python | AGPL-3.0 | 39.0k | 🟢 2026-09-29 |
 | [topoteretes/cognee](https://github.com/topoteretes/cognee) [🔗](https://www.cognee.ai) | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free | Python | Apache-2.0 | 31.2k | 🟢 2026-09-29 |
 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) [🔗](https://supermemory.ai/docs) | Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. | TypeScript · Tailwind | MIT | 31.0k | 🟢 2026-09-29 |
@@ -671,7 +670,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [0xranx/OpenContext](https://github.com/0xranx/OpenContext) [🔗](https://0xranx.github.io/OpenContext/) | A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop G... | JavaScript · Tauri | MIT | 1.2k | 🟡 2026-06-16 |
 | [christopherkarani/Wax](https://github.com/christopherkarani/Wax) [🔗](https://christopherkarani.github.io/Wax/) | Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. No Server. No API. One File. Pure Swift | Swift | Apache-2.0 | 802 | 🟢 2026-09-28 |
 | [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) [🔗](https://okf-memory.dev) | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disc... | Go | MIT | 738 | 🟢 2026-09-27 |
-| [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) | Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer. | TypeScript · SQLite | MIT | 627 | 🟡 2026-05-03 |
+| [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) | Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer. | TypeScript · SQLite | MIT | 629 | 🟡 2026-05-03 |
 | [LeoYeAI/openclaw-auto-dream](https://github.com/LeoYeAI/openclaw-auto-dream) [🔗](https://myclaw.ai) | Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai | HTML | MIT | 549 | 🟡 2026-03-31 |
 | [caura-ai/caura](https://github.com/caura-ai/caura) [🔗](https://caura.ai) | Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, k... | Python · FastAPI | Apache-2.0 | 541 | 🟢 2026-09-29 |
 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) [🔗](https://misakanet.org) | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. \| https://misakanet.org | Python · SQLite | Apache-2.0 | 517 | 🟢 2026-09-29 |
@@ -832,7 +831,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) [🔗](https://goclaw.sh) | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without com... | Go · PostgreSQL | Custom | 3.6k | 🟢 2026-09-29 |
 | [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) [🔗](http://framework.beeai.dev) | Build production-ready AI agents in both Python and Typescript. | Python | Apache-2.0 | 3.4k | 🟢 2026-09-28 |
 | [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent) [🔗](https://mercuryagent.sh/) | Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More. | TypeScript | MIT | 3.2k | 🟢 2026-09-29 |
-| [elie222/rakazo](https://github.com/elie222/rakazo) [🔗](https://rakazo.com) | Open-source Grok Bot alternative. Choose your own model and sandbox. | TypeScript · Docker, Electron | Apache-2.0 | 3.0k | 🟢 2026-09-29 |
+| [elie222/rakazo](https://github.com/elie222/rakazo) [🔗](https://rakazo.com) | Open-source Grok Bot alternative. Choose your own model and sandbox. | TypeScript · Docker, Electron | Apache-2.0 | 3.1k | 🟢 2026-09-29 |
 | [razzant/ouroboros](https://github.com/razzant/ouroboros) [🔗](https://ouroboros-agent.ai/) | Ouroboros — self-creating AI agent. Born Feb 16, 2026. | Python | MIT | 1.4k | 🟢 2026-09-29 |
 | [vellum-ai/vellum-assistant](https://github.com/vellum-ai/vellum-assistant) [🔗](https://vellum.ai) | An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time. | TypeScript | MIT | 1.3k | 🟢 2026-09-29 |
 | [mozilla-ai/any-agent](https://github.com/mozilla-ai/any-agent) [🔗](https://docs.mozilla.ai/any-agent) | A single interface to use and evaluate different agent frameworks | Python | Apache-2.0 | 1.2k | 🟢 2026-09-28 |
@@ -866,7 +865,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [miurla/morphic](https://github.com/miurla/morphic) [🔗](https://chat.morphic.sh) | An AI-powered search engine with a generative UI | TypeScript · Next.js, React | Apache-2.0 | 9.1k | 🟢 2026-09-26 |
 | [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) [🔗](https://llm-graph-builder.neo4jlabs.com/) | Neo4j graph construction from unstructured data using LLMs | Jupyter Notebook · LangChain | Apache-2.0 | 5.3k | 🟢 2026-09-16 |
 | [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) | AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently. | TypeScript | Custom | 5.1k | 🟢 2026-09-29 |
-| [VectifyAI/OpenKB](https://github.com/VectifyAI/OpenKB) [🔗](https://pageindex.ai) | OpenKB: Open LLM Knowledge Base | Python | Apache-2.0 | 4.6k | 🟢 2026-07-22 |
+| [VectifyAI/OpenKB](https://github.com/VectifyAI/OpenKB) [🔗](https://pageindex.ai) | OpenKB: Open LLM Knowledge Base | Python | Apache-2.0 | 4.7k | 🟢 2026-07-22 |
 | [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) [🔗](https://openknowledge.ai) | Beautiful, AI-native markdown IDE and LLM wiki | TypeScript | GPL-3.0 | 4.3k | 🟢 2026-09-29 |
 | [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) [🔗](https://pipeshub.com) | PipesHub is an open-source platform for securely connecting enterprise knowledge to AI. Give AI agents trusted context and your team permission-aware search... | Python · Docker, FastAPI | Apache-2.0 | 3.8k | 🟢 2026-09-29 |
 | [firecrawl/fireplexity](https://github.com/firecrawl/fireplexity) | 🔥 Open Source Perplexity like AI search engine with real-time citations, streaming responses, and live data powered by Firecrawl | TypeScript | None | 2.0k | 🔴 2025-08-22 |
@@ -954,7 +953,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) [🔗](https://www.graphify.com) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gem... | Python | Apache-2.0 | 122.3k | 🟢 2026-09-29 |
-| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) [🔗](https://understand-anything.com/) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud... | TypeScript | MIT | 84.6k | 🟢 2026-09-28 |
+| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) [🔗](https://understand-anything.com/) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud... | TypeScript | MIT | 84.7k | 🟢 2026-09-28 |
 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) [🔗](https://colbymchenry.github.io/codegraph/) | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent... | C | MIT | 72.4k | 🟢 2026-09-29 |
 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) [🔗](https://deusdata.github.io/codebase-memory-mcp/) | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms quer... | C · SQLite | MIT | 45.5k | 🟢 2026-09-28 |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) [🔗](https://open-codereview.ai) | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comm... | Go | Apache-2.0 | 42.5k | 🟢 2026-09-29 |
@@ -1073,7 +1072,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) [🔗](https://agent-plugins.org) | Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins | - | Custom | 1.3k | 🟢 2026-09-28 |
 | [Railly/agentfiles](https://github.com/Railly/agentfiles) [🔗](https://agentfiles.crafter.run) | Browse, create, and edit AI agent files across Claude Code, Cursor, Codex, and 12 coding tools — from Obsidian. | TypeScript | MIT | 849 | 🟢 2026-08-31 |
 | [majiayu000/claude-skill-registry](https://github.com/majiayu000/claude-skill-registry) [🔗](https://majiayu000.github.io/claude-skill-registry/) | The most comprehensive Claude Code skills registry \| Web Search: https://majiayu000.github.io/claude-skill-registry-core/ | HTML | MIT | 658 | 🟢 2026-09-29 |
-| [coco-research/coco](https://github.com/coco-research/coco) [🔗](https://cocoresearch.org/coco/) | CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skil... | HTML | Custom | 535 | 🟢 2026-09-29 |
+| [coco-research/coco](https://github.com/coco-research/coco) [🔗](https://cocoresearch.org/coco/) | CoCo Super Intelligence is the orchestration layer that turns Claude Code, Cursor, or Codex into an engineering department: a routed advisory board, 226 skil... | HTML | Custom | 536 | 🟢 2026-09-29 |
 | [mxyhi/ok-skills](https://github.com/mxyhi/ok-skills) | Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-compatible tools. | HTML | Apache-2.0 | 492 | 🟢 2026-09-25 |
 | [cosmicstack-labs/mercury-agent-skills](https://github.com/cosmicstack-labs/mercury-agent-skills) [🔗](https://skills.mercuryagent.sh) | A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient... | JavaScript | MIT | 471 | 🟢 2026-08-25 |
 | [subsy/skill-cabinet](https://github.com/subsy/skill-cabinet) | - | JavaScript | MIT | 424 | 🟢 2026-09-02 |
@@ -1170,7 +1169,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) [🔗](https://deepseek.com/harness) | DeepSeek Harness: Everything is a Plugin. | TypeScript | MIT | 239.7k | 🟢 2026-09-29 |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) [🔗](https://deepseek.com/harness) | DeepSeek Harness: Everything is a Plugin. | TypeScript | MIT | 239.8k | 🟢 2026-09-29 |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) [🔗](https://opencode.ai) | The open source coding agent. | TypeScript | MIT | 210.8k | 🟢 2026-09-29 |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. | Rust | MIT | 195.3k | 🟢 2026-08-16 |
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) [🔗](https://ccswitch.io) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io | Rust · Tauri | MIT | 138.6k | 🟢 2026-09-29 |
@@ -1221,7 +1220,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) [🔗](https://www.npmjs.com/package/dsh-chat-import) | Import conversation history from 25+ AI coding agents into DeepSeek Harness as resumable sessions — tool calls, reasoning and results kept intact, with rever... | JavaScript | MIT | 205 | 🟢 2026-09-28 |
 | [huang-sh/PiX](https://github.com/huang-sh/PiX) | A non-linear AI agent workbench — session is a tree: branch anytime, and context follows the branch | TypeScript | MPL-2.0 | 188 | 🟢 2026-09-28 |
 | [Muvon/octomind](https://github.com/Muvon/octomind) [🔗](https://octomind.run) | Open-source AI coding agent and agent runtime: one binary, any model, MCP-native. Runs in terminal, CI, or as a daemon. | Rust | Apache-2.0 | 148 | 🟢 2026-09-26 |
-| [fiorastudio/buddy](https://github.com/fiorastudio/buddy) | A virtual pet companion for your AI — Designed to provide in-context code review feedback with personality. Grow with your buddy and level up together. Works... | TypeScript | MIT | 113 | 🟢 2026-09-28 |
+| [fiorastudio/buddy](https://github.com/fiorastudio/buddy) | A virtual pet companion for your AI — Designed to provide in-context code review feedback with personality. Grow with your buddy and level up together. Works... | TypeScript | MIT | 113 | 🟢 2026-09-29 |
 | [JegernOUTT/refact](https://github.com/JegernOUTT/refact) [🔗](https://refact.ai) | AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. | Rust | BSD-3-Clause | 69 | 🟢 2026-09-08 |
 | [mark3labs/iteratr](https://github.com/mark3labs/iteratr) | Long-running Agent Loop Manager | Go | None | 40 | 🟡 2026-05-04 |
 
@@ -1257,10 +1256,11 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 
 ## Data & ML
 
-### Research Papers & Models (35)
+### Research Papers & Models (36)
 
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
+| [openai/whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision | Python | MIT | 109.7k | 🟢 2026-08-31 |
 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | (ECCV 2026 oral &amp; best paper candidate) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction | Python | Apache-2.0 | 17.1k | 🟢 2026-09-08 |
 | [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) [🔗](https://discord.gg/EamjgSaEQf) | A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature. | Python · PyTorch | MIT | 14.9k | 🟡 2026-05-23 |
 | [microsoft/LoRA](https://github.com/microsoft/LoRA) [🔗](https://arxiv.org/abs/2106.09685) | Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models" | Python · PyTorch | MIT | 13.8k | 🔴 2024-12-17 |
@@ -1420,7 +1420,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [nilbuild/slim](https://github.com/nilbuild/slim) [🔗](https://slim.sh) | Give your localhost a local or public URL | Go | Custom | 2.1k | 🟢 2026-09-22 |
 | [adminsyspro/proxcenter-ui](https://github.com/adminsyspro/proxcenter-ui) [🔗](https://www.proxcenter.io) | ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface to manage multiple Proxmox VE clusters... | TypeScript | Custom | 1.7k | 🟢 2026-09-28 |
 | [e2b-dev/runtime](https://github.com/e2b-dev/runtime) [🔗](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=runtime) | The runtime behind every E2B stack: Cloud, Enterprise, and your own machine. | Go | Apache-2.0 | 1.6k | 🟢 2026-09-29 |
-| [newrelic/node-newrelic](https://github.com/newrelic/node-newrelic) | New Relic Node.js agent code base. Developers are welcome to create pull requests here, please see our contributing guidelines. For New Relic technical suppo... | JavaScript | Apache-2.0 | 999 | 🟢 2026-09-29 |
+| [newrelic/node-newrelic](https://github.com/newrelic/node-newrelic) | New Relic Node.js agent code base. Developers are welcome to create pull requests here, please see our contributing guidelines. For New Relic technical suppo... | JavaScript | Apache-2.0 | 1.0k | 🟢 2026-09-29 |
 
 ## Web & Frontend
 
@@ -1446,7 +1446,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [xyflow/xyflow](https://github.com/xyflow/xyflow) [🔗](https://xyflow.com) | React Flow \| Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev).... | TypeScript · React, Svelte | MIT | 38.5k | 🟢 2026-09-29 |
 | [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) [🔗](https://www.reactboilerplate.com) | 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices. | JavaScript · React | MIT | 29.5k | 🔴 2023-03-23 |
 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) [🔗](https://stitch.withgoogle.com/docs/design-md/specification) | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. | TypeScript | Apache-2.0 | 28.2k | 🟢 2026-09-14 |
-| [marmelab/react-admin](https://github.com/marmelab/react-admin) [🔗](http://marmelab.com/react-admin) | A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design | TypeScript · React | MIT | 26.9k | 🟢 2026-09-25 |
+| [marmelab/react-admin](https://github.com/marmelab/react-admin) [🔗](http://marmelab.com/react-admin) | A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design | TypeScript · React | MIT | 26.9k | 🟢 2026-09-29 |
 | [nilbuild/driver.js](https://github.com/nilbuild/driver.js) [🔗](https://driverjs.com) | A lightweight, dependency-free JavaScript library for guiding user focus across the page. | TypeScript | MIT | 26.9k | 🟢 2026-07-18 |
 | [feathericons/feather](https://github.com/feathericons/feather) [🔗](https://feathericons.com) | Simply beautiful open-source icons | JavaScript | MIT | 26.0k | 🔴 2025-03-11 |
 | [usablica/intro.js](https://github.com/usablica/intro.js) [🔗](http://introjs.com) | Lightweight, user-friendly onboarding tour library | TypeScript | Custom | 23.5k | 🟢 2026-09-21 |
@@ -1622,11 +1622,3 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [vectal-labs/repo-sync](https://github.com/vectal-labs/repo-sync) | your git repos, always in sync. automatic commits, pulls, and pushes on macOS. | Go | MIT | 73 | 🟢 2026-09-09 |
 | [dderevjanik/pixabay-api](https://github.com/dderevjanik/pixabay-api) | pixabay api, https://pixabay.com/api/docs/ | TypeScript | MIT | 37 | 🟡 2026-02-14 |
 | [lymagics/tanka](https://github.com/lymagics/tanka) [🔗](https://pypi.org/project/tanka/) | True Object-Oriented Python Web Framework. | Python | MIT | 18 | 🟢 2026-09-29 |
-
-## Uncategorized
-
-### Unsorted (1)
-
-| Repository | Details | Stack | License | Stars | Last updated |
-|---|---|---|---|---|---|
-| [mrdoob/toys](https://github.com/mrdoob/toys) [🔗](https://mrdoob.github.io/toys/) | - | JavaScript | MIT | 40 | 🟢 2026-07-06 |

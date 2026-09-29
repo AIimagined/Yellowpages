@@ -2367,6 +2367,10 @@
     "Data & ML",
     "Charts, Analytics & Dashboards"
   ],
+  "excalidraw/excalidraw": [
+    "Lists & Learning",
+    "Awesome Lists"
+  ],
   "experiencor/image-to-3d-bbox": [
     "Data & ML",
     "Machine Learning"
@@ -3387,6 +3391,10 @@
     "Email",
     "Email Tools & Servers"
   ],
+  "mailhog/MailHog": [
+    "Email",
+    "Email Tools & Servers"
+  ],
   "maillab/cloud-mail": [
     "Email",
     "Email Tools & Servers"
@@ -3559,6 +3567,10 @@
     "Apps & Utilities",
     "Desktop & Mobile Apps"
   ],
+  "microsoft/playwright": [
+    "AI Agents",
+    "Browser & Computer Use"
+  ],
   "microsoft/playwright-mcp": [
     "AI Agents",
     "Browser & Computer Use"
@@ -3708,6 +3720,10 @@
     "Animation, Canvas & SVG"
   ],
   "mrdoob/three.js": [
+    "Graphics & Animation",
+    "3D & WebGL"
+  ],
+  "mrdoob/toys": [
     "Graphics & Animation",
     "3D & WebGL"
   ],
@@ -3986,6 +4002,10 @@
   "openai/tiktoken": [
     "Developer Tools",
     "Libraries & Dev Tools"
+  ],
+  "openai/whisper": [
+    "Data & ML",
+    "Research Papers & Models"
   ],
   "openclaw/agent-skills": [
     "AI Coding",
