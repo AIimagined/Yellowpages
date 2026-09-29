@@ -997,7 +997,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) [🔗](https://www.uupm.cc/) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | Python · React, Tailwind | MIT | 131.5k | 🟢 2026-09-27 |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) [🔗](https://tasteskill.dev) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop | JavaScript | MIT | 91.1k | 🟢 2026-09-26 |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) [🔗](https://tasteskill.dev) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop | JavaScript | MIT | 91.2k | 🟢 2026-09-26 |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) [🔗](https://impeccable.style) | The design language that makes your AI harness better at design. | JavaScript | Apache-2.0 | 72.4k | 🟢 2026-09-29 |
 | [emilkowalski/skills](https://github.com/emilkowalski/skills) [🔗](https://emilkowal.ski/skill) | Skills for Designers and Engineers. | Markdown | MIT | 41.8k | 🟢 2026-09-23 |
 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) [🔗](https://www.usehallmark.com/) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | CSS | MIT | 29.3k | 🟢 2026-08-06 |
