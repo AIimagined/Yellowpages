@@ -4,7 +4,7 @@ Usage:  python build.py            fetch stars, classify, write README.md
         python build.py --selftest run the built-in checks
 
 Env:    GITHUB_TOKEN / GH_TOKEN    optional, raises the API rate limit
-        OPENROUTER_API_KEY         optional, classifies repos the rules miss
+        OPENROUTER_API_KEY         optional, lets an LLM place new repos (keyword rules otherwise)
         OPENROUTER_MODEL           optional, model used for that (default below)
         STARS_USER                 whose stars to index (default below)
 """
@@ -24,6 +24,8 @@ RULES_FILE = ROOT / "categories.json"
 OVERRIDES_FILE = ROOT / "overrides.json"
 UNCATEGORIZED = ("Uncategorized", "Unsorted")
 LLM_CHUNK = 100  # repos per request, keeps the JSON reply small
+THIN_DESCRIPTION = 60  # shorter than this and the README is sent to the LLM as well
+README_CHARS = 2000
 
 # Topic tag -> display name. Only tags the author chose, so these are central to the repo.
 FRAMEWORKS = {
@@ -37,20 +39,33 @@ FRAMEWORKS = {
 }
 
 
-def fetch_stars(user):
+def github(path, accept="application/vnd.github+json"):
     token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
-    headers = {"Accept": "application/vnd.github+json", "User-Agent": "yellowpages"}
+    headers = {"Accept": accept, "User-Agent": "yellowpages"}
     if token:
         headers["Authorization"] = f"Bearer {token}"
+    request = urllib.request.Request(f"https://api.github.com/{path}", headers=headers)
+    with urllib.request.urlopen(request, timeout=60) as r:
+        return r.read()
+
+
+def fetch_stars(user):
     repos, page = [], 1
     while True:
-        url = f"https://api.github.com/users/{user}/starred?per_page=100&page={page}"
-        with urllib.request.urlopen(urllib.request.Request(url, headers=headers)) as r:
-            batch = json.load(r)
+        batch = json.loads(github(f"users/{user}/starred?per_page=100&page={page}"))
         if not batch:
             return repos
         repos += batch
         page += 1
+
+
+def fetch_readme(full_name):
+    """Start of the README, used when the description says too little. Empty if there is none."""
+    try:
+        raw = github(f"repos/{full_name}/readme", accept="application/vnd.github.raw")
+    except OSError:
+        return ""
+    return re.sub(r"\s+", " ", raw.decode("utf-8", "replace"))[:README_CHARS]
 
 
 def normalize(text):
@@ -80,7 +95,7 @@ def classify(repo, compiled, overrides):
 
 
 def llm_classify(repos, rules, key):
-    """Ask an LLM (via OpenRouter) to place repos the rules missed. Returns {full_name: [category, group]}."""
+    """Ask an LLM (via OpenRouter) to place repos. Returns {full_name: [category, group]}."""
     targets = {f"{r['category']} / {r['group']}": [r["category"], r["group"]] for r in rules}
     targets[" / ".join(UNCATEGORIZED)] = list(UNCATEGORIZED)
     schema = {
@@ -104,10 +119,12 @@ def llm_classify(repos, rules, key):
     }
     result = {}
     for i in range(0, len(repos), LLM_CHUNK):
-        chunk = [
-            {k: r.get(k) for k in ("full_name", "description", "topics", "language")}
-            for r in repos[i : i + LLM_CHUNK]
-        ]
+        chunk = []
+        for r in repos[i : i + LLM_CHUNK]:
+            item = {k: r.get(k) for k in ("full_name", "description", "topics", "language")}
+            if len(r.get("description") or "") < THIN_DESCRIPTION:
+                item["readme_start"] = fetch_readme(r["full_name"])
+            chunk.append(item)
         body = {
             "model": MODEL,
             # OpenRouter reserves credit for the full max_tokens up front, so keep it near real need.
@@ -118,9 +135,20 @@ def llm_classify(repos, rules, key):
             },
             "messages": [{
                 "role": "user",
-                "content": "Assign each GitHub repo to the group that best matches its main purpose. "
-                "Group repos that solve the same problem together. Use the Uncategorized group only "
-                "when nothing fits. Return one entry per repo, using its full_name as name.\n\n"
+                "content": "Assign each GitHub repo to the one group whose definition best matches its "
+                "main purpose: the problem it solves for its user.\n\n"
+                "Rules, in order:\n"
+                "1. Purpose over platform. Classify by what the repo does, not by which tool it plugs into.\n"
+                "2. A skill or plugin whose subject has its own group (video, audio, image, documents, 3D, "
+                "animation, security, email, finance, browser automation, agent memory, code review) goes to "
+                "that subject group. Other skills go to one of the Skills groups.\n"
+                "3. A repo whose main content is a list of links or resources is an Awesome List.\n"
+                "4. Code released with an academic paper is Research Papers & Models, unless it is a widely "
+                "used library.\n"
+                "5. Libraries & Dev Tools is a last resort. Use Uncategorized only when nothing gives a clue.\n\n"
+                "Groups:\n"
+                + "\n".join(f"- {r['category']} / {r['group']}: {r.get('about', '')}" for r in rules)
+                + "\n\nReturn one entry per repo, using its full_name as name.\n\nRepos:\n"
                 + json.dumps(chunk, ensure_ascii=False),
             }],
         }
@@ -134,8 +162,10 @@ def llm_classify(repos, rules, key):
         wanted = {r["full_name"] for r in chunk}
         for item in json.loads(reply["choices"][0]["message"]["content"])["repos"]:
             target = targets.get(item["group"])
-            if item["name"] in wanted and target:
-                result[item["name"]] = target  # "Uncategorized" is saved too, so it is asked only once
+            # ponytail: "Uncategorized" is not saved, so those repos are asked again every run and get
+            # sorted once they gain a description or README. Save them if the daily cost ever matters.
+            if item["name"] in wanted and target and target != list(UNCATEGORIZED):
+                result[item["name"]] = target
     return result
 
 
@@ -236,19 +266,21 @@ def main():
     if not repos:
         sys.exit(f"no starred repos returned for {USER}, README left untouched")
 
+    # overrides.json is final. Anything not in it yet goes to the LLM, and its answer is saved there.
+    # Keyword rules only fill in for repos the LLM could not be asked about; that result is not saved,
+    # so the LLM gets another try on the next run.
     placed = {r["full_name"]: classify(r, compiled, overrides) for r in repos}
-    # Repos that are deliberately left unsorted in overrides.json are not re-sent to the LLM.
-    missed = [r for r in repos if placed[r["full_name"]] == UNCATEGORIZED and r["full_name"] not in overrides]
+    pending = [r for r in repos if r["full_name"] not in overrides]
 
     key = os.environ.get("OPENROUTER_API_KEY")
-    if missed and key:
+    if pending and key:
         try:
-            found = llm_classify(missed, rules, key)
+            found = llm_classify(pending, rules, key)
         except urllib.error.HTTPError as e:
             detail = e.read(300).decode("utf-8", "replace")
             print(f"warning: LLM step failed (HTTP {e.code}: {detail}), skipping", file=sys.stderr)
         except (OSError, ValueError, KeyError, IndexError, TypeError) as e:
-            # Network, HTTP, or malformed-reply failure: keep going, those repos stay uncategorized.
+            # Network or malformed-reply failure: keep going on keyword rules.
             print(f"warning: LLM step failed ({type(e).__name__}: {e}), skipping", file=sys.stderr)
         else:
             overrides.update(found)
@@ -261,7 +293,8 @@ def main():
     today = datetime.now(timezone.utc).date()
     (ROOT / "README.md").write_text(render(USER, repos, placed, order, today), encoding="utf-8")
     left = sum(1 for t in placed.values() if t == UNCATEGORIZED)
-    print(f"{len(repos)} repos, {left} uncategorized")
+    by_rules = sum(1 for r in repos if r["full_name"] not in overrides)
+    print(f"{len(repos)} repos, {left} uncategorized, {by_rules} placed by keyword rules only")
 
 
 def selftest():
