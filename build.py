@@ -12,6 +12,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -109,6 +110,8 @@ def llm_classify(repos, rules, key):
         ]
         body = {
             "model": MODEL,
+            # OpenRouter reserves credit for the full max_tokens up front, so keep it near real need.
+            "max_tokens": 8000,
             "response_format": {
                 "type": "json_schema",
                 "json_schema": {"name": "classification", "strict": True, "schema": schema},
@@ -241,6 +244,9 @@ def main():
     if missed and key:
         try:
             found = llm_classify(missed, rules, key)
+        except urllib.error.HTTPError as e:
+            detail = e.read(300).decode("utf-8", "replace")
+            print(f"warning: LLM step failed (HTTP {e.code}: {detail}), skipping", file=sys.stderr)
         except (OSError, ValueError, KeyError, IndexError, TypeError) as e:
             # Network, HTTP, or malformed-reply failure: keep going, those repos stay uncategorized.
             print(f"warning: LLM step failed ({type(e).__name__}: {e}), skipping", file=sys.stderr)
