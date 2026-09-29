@@ -18,7 +18,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 USER = os.environ.get("STARS_USER", "AIimagined")
-MODEL = os.environ.get("OPENROUTER_MODEL", "anthropic/claude-sonnet-5.5")
+# openrouter/free picks a free model at random, so quality varies run to run.
+# Set OPENROUTER_MODEL to a specific model for steadier results.
+MODEL = os.environ.get("OPENROUTER_MODEL", "openrouter/free")
 ROOT = Path(__file__).parent
 RULES_FILE = ROOT / "categories.json"
 OVERRIDES_FILE = ROOT / "overrides.json"
@@ -159,6 +161,7 @@ def llm_classify(repos, rules, key):
         )
         with urllib.request.urlopen(request, timeout=300) as r:
             reply = json.load(r)
+        print(f"LLM: {len(chunk)} repos sent, answered by {reply.get('model')}")
         wanted = {r["full_name"] for r in chunk}
         for item in json.loads(reply["choices"][0]["message"]["content"])["repos"]:
             target = targets.get(item["group"])

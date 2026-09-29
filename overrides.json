@@ -2367,10 +2367,6 @@
     "Data & ML",
     "Charts, Analytics & Dashboards"
   ],
-  "excalidraw/excalidraw": [
-    "Graphics & Animation",
-    "Animation, Canvas & SVG"
-  ],
   "experiencor/image-to-3d-bbox": [
     "Data & ML",
     "Machine Learning"
@@ -3391,10 +3387,6 @@
     "Email",
     "Email Tools & Servers"
   ],
-  "mailhog/MailHog": [
-    "Email",
-    "Email Tools & Servers"
-  ],
   "maillab/cloud-mail": [
     "Email",
     "Email Tools & Servers"
@@ -3495,10 +3487,6 @@
     "Finance",
     "Finance, Trading & Business"
   ],
-  "mem0ai/mem0": [
-    "AI Agents",
-    "Agent Memory & Knowledge Graphs"
-  ],
   "mermaid-js/mermaid": [
     "Graphics & Animation",
     "Animation, Canvas & SVG"
@@ -3570,10 +3558,6 @@
   "microsoft/microsoft-ui-xaml": [
     "Apps & Utilities",
     "Desktop & Mobile Apps"
-  ],
-  "microsoft/playwright": [
-    "AI Agents",
-    "Browser & Computer Use"
   ],
   "microsoft/playwright-mcp": [
     "AI Agents",
@@ -3724,10 +3708,6 @@
     "Animation, Canvas & SVG"
   ],
   "mrdoob/three.js": [
-    "Graphics & Animation",
-    "3D & WebGL"
-  ],
-  "mrdoob/toys": [
     "Graphics & Animation",
     "3D & WebGL"
   ],
@@ -4006,10 +3986,6 @@
   "openai/tiktoken": [
     "Developer Tools",
     "Libraries & Dev Tools"
-  ],
-  "openai/whisper": [
-    "Media",
-    "Voice, Audio & Music"
   ],
   "openclaw/agent-skills": [
     "AI Coding",
