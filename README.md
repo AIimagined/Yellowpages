@@ -175,7 +175,7 @@ Categorized index of 1347 repositories starred by [@AIimagined](https://github.c
 | [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) [🔗](https://designer.sendune.com) | Free, open source, HTML email template editor and no code designer. | TypeScript | MIT | 2.3k | 🟡 2026-06-08 |
 | [postalsys/emailengine](https://github.com/postalsys/emailengine) [🔗](https://emailengine.app/) | Headless email client | JavaScript | Custom | 2.2k | 🟢 2026-09-28 |
 | [disposable/disposable](https://github.com/disposable/disposable) | A list of disposable/temporary email address domains | Python | MIT | 1.5k | 🟢 2026-09-29 |
-| [hyvor/relay](https://github.com/hyvor/relay) [🔗](https://relay.hyvor.com) | ✉️ Open-Source Email API for Developers. Cloud &amp; Self-hosted Alternative to SES, Mailgun, SendGrid. | PHP | AGPL-3.0 | 907 | 🟢 2026-09-29 |
+| [hyvor/relay](https://github.com/hyvor/relay) [🔗](https://relay.hyvor.com) | ✉️ Open-Source Email API for Developers. Cloud &amp; Self-hosted Alternative to SES, Mailgun, SendGrid. | PHP | AGPL-3.0 | 908 | 🟢 2026-09-29 |
 | [Zhoros/NortixMail](https://github.com/Zhoros/NortixMail) | Nortix Mail - disposable email server with an easy setup | Svelte | Custom | 717 | 🟡 2026-06-23 |
 | [seatgeek/mailroom](https://github.com/seatgeek/mailroom) [🔗](https://chairnerd.seatgeek.com/mailroom-notification-framework/) | Framework for creating, routing, and delivering user notifications based on events from external systems | Go | Apache-2.0 | 575 | 🟢 2026-09-17 |
 | [goposta/posta](https://github.com/goposta/posta) [🔗](https://goposta.dev) | Self-hosted email delivery platform that enables applications to send emails via HTTP APIs while handling SMTP delivery, templates, storage, security, and an... | Go | AGPL-3.0 | 511 | 🟢 2026-09-26 |
@@ -641,7 +641,7 @@ Categorized index of 1347 repositories starred by [@AIimagined](https://github.c
 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) [🔗](https://colbymchenry.github.io/codegraph/) | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent... | C | MIT | 72.3k | 🟢 2026-09-29 |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0) [🔗](https://mem0.ai) | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. | Python | Apache-2.0 | 66.3k | 🟢 2026-09-25 |
 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) [🔗](https://deusdata.github.io/codebase-memory-mcp/) | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms quer... | C · SQLite | MIT | 45.4k | 🟢 2026-09-28 |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) [🔗](https://hindsight.vectorize.io/) | Hindsight: Agent Memory That Learns | Python | MIT | 42.0k | 🟢 2026-09-29 |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) [🔗](https://hindsight.vectorize.io/) | Hindsight: Agent Memory That Learns | Python | MIT | 42.1k | 🟢 2026-09-29 |
 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) [🔗](https://openviking.ai/) | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. | Python | AGPL-3.0 | 39.0k | 🟢 2026-09-29 |
 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) [🔗](https://code-review-graph.com) | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked con... | Python | MIT | 31.8k | 🟢 2026-09-18 |
 | [topoteretes/cognee](https://github.com/topoteretes/cognee) [🔗](https://www.cognee.ai) | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free | Python | Apache-2.0 | 31.2k | 🟢 2026-09-29 |
@@ -942,7 +942,7 @@ Categorized index of 1347 repositories starred by [@AIimagined](https://github.c
 
 ## AI Coding
 
-### Code Search, Review & Analysis (30)
+### Code Search, Review & Analysis (29)
 
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
@@ -974,10 +974,9 @@ Categorized index of 1347 repositories starred by [@AIimagined](https://github.c
 | [HexmosTech/LiveReview](https://github.com/HexmosTech/LiveReview) [🔗](https://hexmos.com/livereview/) | Blast-Radius Aware AI Code Review for Business-Critical Systems | Go | Custom | 62 | 🟢 2026-09-28 |
 | [nahid-sparktales/agent-dispatcher](https://github.com/nahid-sparktales/agent-dispatcher) | Repository retrieval and context engine for Claude Code and Codex: finds relevant code, reuses project knowledge, and pairs each task with specialist skills... | Python | MIT | 56 | 🟢 2026-09-29 |
 | [VinvAI/VinvAI](https://github.com/VinvAI/VinvAI) [🔗](https://vinv.ai) | Tools for AI agents to test, fix and optimise your codebase | Python · FastAPI | Apache-2.0 | 46 | 🟢 2026-09-22 |
-| [AIimagined/Godmode](https://github.com/AIimagined/Godmode) | Your coding agent says "done." Godmode checks. A local, tamper-evident record of what your agent ran, changed and proved: risky commands stopped before they... | Python | Apache-2.0 | 7 | 🟢 2026-09-27 |
 | [vinicq/falsegreen](https://github.com/vinicq/falsegreen) [🔗](https://vinicq.github.io/falsegreen-docs/) | Find false-green tests: tests that pass without verifying anything. Deterministic Python/pytest AST scanner (C1-C59 + PL config-audit), zero-dep, CI-ready. | Python | MIT | 3 | 🟢 2026-08-11 |
 
-### Skills & Plugins (131)
+### Skills & Plugins (132)
 
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
@@ -1105,11 +1104,12 @@ Categorized index of 1347 repositories starred by [@AIimagined](https://github.c
 | [Scottcjn/shaprai](https://github.com/Scottcjn/shaprai) | ShaprAI — Agent Sharpener by Elyan Labs. Sharpen raw models into principled, self-governing Elyan-class agents. Requires beacon-skill, grazer-skill, atlas, R... | Python | MIT | 75 | 🟢 2026-09-26 |
 | [awesome-skills/5-whys-skill](https://github.com/awesome-skills/5-whys-skill) | A Claude Code skill for systematic 5-Whys root cause analysis - trace problems to fundamental causes, based on Toyota Production System methodology | - | MIT | 60 | 🟡 2025-12-03 |
 | [arcasilesgroup/ai-engineering](https://github.com/arcasilesgroup/ai-engineering) [🔗](https://ai-engineering.arcasiles.com) | The governance floor for AI coding agents: install, guard, prove. Guards, git hooks, an executable contract and a receipt per run — no hosted control plane,... | TypeScript · Bun | Apache-2.0 | 58 | 🟢 2026-09-29 |
-| [EliaAlberti/dcode-agent-kit](https://github.com/EliaAlberti/dcode-agent-kit) | A Claude Code skill that scaffolds ready-to-run LangChain Deep Agents and dcode CLI agents into any project. | LangChain | MIT | 56 | 🟡 2026-06-23 |
+| [EliaAlberti/dcode-agent-kit](https://github.com/EliaAlberti/dcode-agent-kit) | A Claude Code skill that scaffolds ready-to-run LangChain Deep Agents and dcode CLI agents into any project. | LangChain | MIT | 57 | 🟡 2026-06-23 |
 | [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) | Karpathy-inspired coding-agent guidelines packaged for Claude Code, Codex, Cursor, Gemini, OpenCode, Aider, Copilot, OpenClaw, and any AGENTS.md or Agent Ski... | JavaScript | MIT | 50 | 🟡 2026-05-11 |
 | [tmchow/illo-characters](https://github.com/tmchow/illo-characters) | Community character packs for the illo editorial-illustration agent skill | - | MIT | 32 | 🟢 2026-09-21 |
 | [SwarmResearch/SwarmResearch](https://github.com/SwarmResearch/SwarmResearch) | Skills to orchestrate coding agents for open-ended discovery | C++ | None | 19 | 🟢 2026-07-07 |
 | [voidmatcha/e2e-skills](https://github.com/voidmatcha/e2e-skills) [🔗](https://www.skills.sh/voidmatcha/e2e-skills) | Playwright and Cypress skills for Claude Code and Codex: generate tests, catch false-green tests and test smells, debug failures. | Python · Playwright | Apache-2.0 | 18 | 🟢 2026-09-20 |
+| [AIimagined/Godmode](https://github.com/AIimagined/Godmode) | Your coding agent says "done." Godmode checks. A local, tamper-evident record of what your agent ran, changed and proved: risky commands stopped before they... | Python | Apache-2.0 | 7 | 🟢 2026-09-27 |
 | [vivekparekh8/patch-receipt](https://github.com/vivekparekh8/patch-receipt) | Autoscreenshots / recording receipts for your PRs via skill. | JavaScript | MIT | 7 | 🟢 2026-08-10 |
 | [rrrrrredy/beforedone](https://github.com/rrrrrredy/beforedone) [🔗](https://rrrrrredy.github.io/beforedone/) | Require fresh, file-bound verification evidence before coding agents declare completion. | Go | Apache-2.0 | 3 | 🟢 2026-09-13 |
 
@@ -1158,7 +1158,7 @@ Categorized index of 1347 repositories starred by [@AIimagined](https://github.c
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) [🔗](https://deepseek.com/harness) | DeepSeek Harness: Everything is a Plugin. | TypeScript | MIT | 239.5k | 🟢 2026-09-29 |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) [🔗](https://opencode.ai) | The open source coding agent. | TypeScript | MIT | 210.8k | 🟢 2026-09-29 |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. | Rust | MIT | 195.3k | 🟢 2026-08-16 |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) [🔗](https://ccswitch.io) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io | Rust · Tauri | MIT | 138.5k | 🟢 2026-09-29 |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) [🔗](https://ccswitch.io) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io | Rust · Tauri | MIT | 138.6k | 🟢 2026-09-29 |
 | [openai/codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal | Rust | Apache-2.0 | 127.1k | 🟢 2026-09-29 |
 | [earendil-works/pi](https://github.com/earendil-works/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI | TypeScript | MIT | 110.3k | 🟢 2026-09-29 |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) [🔗](https://openhands.dev) | 🙌 OpenHands: AI-Driven Development | TypeScript | MIT | 89.5k | 🟢 2026-09-29 |
@@ -1494,7 +1494,7 @@ Categorized index of 1347 repositories starred by [@AIimagined](https://github.c
 | [hpjansson/chafa](https://github.com/hpjansson/chafa) [🔗](https://hpjansson.org/chafa/) | 📺🗿 Terminal graphics for the 21st century. | C | LGPL-3.0 | 5.3k | 🟢 2026-09-28 |
 | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | Make Every Team AI Native | TypeScript | Custom | 5.1k | 🟢 2026-09-29 |
 | [tobi/try](https://github.com/tobi/try) | fresh directories for every vibe | Shell | MIT | 4.0k | 🟢 2026-08-16 |
-| [higgsfield-ai/cli](https://github.com/higgsfield-ai/cli) | Higgsfield CLI | Shell | MIT | 613 | 🟢 2026-09-18 |
+| [higgsfield-ai/cli](https://github.com/higgsfield-ai/cli) | Higgsfield CLI | Shell | MIT | 614 | 🟢 2026-09-18 |
 | [powerfooI/roamgate](https://github.com/powerfooI/roamgate) [🔗](https://roamgate.dev/) | A Herdr client for any screen. Control terminals, monitor coding agents, and review files and diffs from desktop or mobile. | TypeScript · Bun | MIT | 256 | 🟢 2026-09-29 |
 
 ### Desktop & Mobile Apps (14)
