@@ -5,7 +5,7 @@ Usage:  python build.py            fetch stars, classify, write README.md
 
 Env:    GITHUB_TOKEN / GH_TOKEN    optional, raises the API rate limit
         OPENROUTER_API_KEY         optional, lets an LLM place new repos (keyword rules otherwise)
-        OPENROUTER_MODEL           optional, model used for that (default below)
+        OPENROUTER_MODEL           optional, comma-separated models to try in order (default below)
         STARS_USER                 whose stars to index (default below)
 """
 import json
@@ -18,9 +18,11 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 USER = os.environ.get("STARS_USER", "AIimagined")
-# openrouter/free picks a free model at random, so quality varies run to run.
-# Set OPENROUTER_MODEL to a specific model for steadier results.
-MODEL = os.environ.get("OPENROUTER_MODEL", "openrouter/free")
+# Tried in order until one gives a usable answer. openrouter/free picks a free model at random and
+# sometimes lands on one that cannot do this job, so named free models go first.
+MODELS = os.environ.get(
+    "OPENROUTER_MODEL", "nvidia/nemotron-3-super-120b-a12b:free,qwen/qwen3.8-27b:free,openrouter/free"
+).split(",")
 ROOT = Path(__file__).parent
 RULES_FILE = ROOT / "categories.json"
 OVERRIDES_FILE = ROOT / "overrides.json"
@@ -128,9 +130,10 @@ def llm_classify(repos, rules, key):
                 item["readme_start"] = fetch_readme(r["full_name"])
             chunk.append(item)
         body = {
-            "model": MODEL,
             # OpenRouter reserves credit for the full max_tokens up front, so keep it near real need.
             "max_tokens": 8000,
+            # Only route to providers that honour response_format.
+            "provider": {"require_parameters": True},
             "response_format": {
                 "type": "json_schema",
                 "json_schema": {"name": "classification", "strict": True, "schema": schema},
@@ -154,22 +157,46 @@ def llm_classify(repos, rules, key):
                 + json.dumps(chunk, ensure_ascii=False),
             }],
         }
-        request = urllib.request.Request(
-            "https://openrouter.ai/api/v1/chat/completions",
-            data=json.dumps(body).encode(),
-            headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
-        )
-        with urllib.request.urlopen(request, timeout=300) as r:
-            reply = json.load(r)
-        print(f"LLM: {len(chunk)} repos sent, answered by {reply.get('model')}")
         wanted = {r["full_name"] for r in chunk}
-        for item in json.loads(reply["choices"][0]["message"]["content"])["repos"]:
-            target = targets.get(item["group"])
+        for model in MODELS:
+            try:
+                answer = ask(dict(body, model=model), key)
+            except urllib.error.HTTPError as e:
+                print(f"warning: {model} failed (HTTP {e.code}: {e.read(200).decode('utf-8', 'replace')})",
+                      file=sys.stderr)
+                continue
+            except (OSError, ValueError, KeyError, IndexError, TypeError) as e:
+                print(f"warning: {model} gave no usable answer ({type(e).__name__}: {e})", file=sys.stderr)
+                continue
+            placed = {
+                item["name"]: targets[item["group"]]
+                for item in answer
+                if isinstance(item, dict) and item.get("name") in wanted and item.get("group") in targets
+            }
+            print(f"LLM: {model} placed {len(placed)} of {len(chunk)} repos")
             # ponytail: "Uncategorized" is not saved, so those repos are asked again every run and get
             # sorted once they gain a description or README. Save them if the daily cost ever matters.
-            if item["name"] in wanted and target and target != list(UNCATEGORIZED):
-                result[item["name"]] = target
+            result.update({n: t for n, t in placed.items() if t != list(UNCATEGORIZED)})
+            if placed:
+                break
     return result
+
+
+def ask(body, key):
+    """One OpenRouter call. Returns the list of {name, group} entries from the reply."""
+    request = urllib.request.Request(
+        "https://openrouter.ai/api/v1/chat/completions",
+        data=json.dumps(body).encode(),
+        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
+    )
+    with urllib.request.urlopen(request, timeout=300) as r:
+        text = json.load(r)["choices"][0]["message"]["content"]
+    return parse_answer(text)
+
+
+def parse_answer(text):
+    """Free models often wrap JSON in prose or code fences, so take the outermost object."""
+    return json.loads(text[text.index("{") : text.rindex("}") + 1])["repos"]
 
 
 def cell(text):
@@ -316,6 +343,8 @@ def selftest():
     assert license_name({"license": None}) == "None"
     assert license_name({"license": {"spdx_id": "NOASSERTION"}}) == "Custom"
     assert anchor("Voice & Audio") == "voice--audio"
+    fenced = 'Sure:\n```json\n{"repos": [{"name": "o/x", "group": "A / B"}]}\n```'
+    assert parse_answer(fenced) == [{"name": "o/x", "group": "A / B"}]
     assert stack({"language": "TypeScript", "topics": ["react", "ai", "nextjs", "vue"]}) == "TypeScript · React, Next.js"
     assert stack({"language": None, "topics": []}) == "-"
     today = datetime(2026, 9, 29).date()
