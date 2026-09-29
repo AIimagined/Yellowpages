@@ -6,14 +6,14 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 
 **Last updated:** 🟢 under 3 months ago · 🟡 under 1 year · 🔴 over 1 year · 📦 archived  
 **License:** MIT, Apache-2.0, BSD = free for commercial use · GPL, AGPL = changes must be open-sourced · None, Custom = check with the author before using  
-**🔗** = project website or demo
+**🔗** = project website or demo · **🤖** = sorted automatically, not yet reviewed (add it to `overrides.json` to confirm or move it)
 
 ## Contents
 
-- [Lists & Learning](#lists--learning) (106)
+- [Lists & Learning](#lists--learning) (105)
 - [Email](#email) (40)
-- [Media](#media) (193)
-- [Graphics & Animation](#graphics--animation) (114)
+- [Media](#media) (194)
+- [Graphics & Animation](#graphics--animation) (115)
 - [Security](#security) (33)
 - [Hardware & Robotics](#hardware--robotics) (22)
 - [Finance](#finance) (28)
@@ -21,7 +21,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 - [LLM Tooling](#llm-tooling) (71)
 - [AI Coding](#ai-coding) (241)
 - [MCP](#mcp) (23)
-- [Data & ML](#data--ml) (96)
+- [Data & ML](#data--ml) (95)
 - [Automation & DevOps](#automation--devops) (38)
 - [Web & Frontend](#web--frontend) (58)
 - [Apps & Utilities](#apps--utilities) (56)
@@ -29,7 +29,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 
 ## Lists & Learning
 
-### Awesome Lists (61)
+### Awesome Lists (60)
 
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
@@ -41,7 +41,6 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [f/prompts.chat](https://github.com/f/prompts.chat) [🔗](https://prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete... | HTML · Next.js | Custom | 171.6k | 🟢 2026-09-09 |
 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) [🔗](https://www.theunwindai.com) | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | Python | Apache-2.0 | 140.2k | 🟢 2026-09-29 |
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) [🔗](https://free-for.dev/) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | HTML | None | 138.9k | 🟢 2026-09-28 |
-| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) [🔗](https://excalidraw.com) | Virtual whiteboard for sketching hand-drawn like diagrams | TypeScript | MIT | 133.2k | 🟢 2026-09-29 |
 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) [🔗](https://getdesign.md/) | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. | - | MIT | 118.8k | 🟢 2026-09-21 |
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows | Python | None | 75.8k | 🟢 2026-09-18 |
 | [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | - | MIT | 74.4k | 🟡 2026-01-04 |
@@ -300,10 +299,11 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [haaarshsingh/loomix](https://github.com/haaarshsingh/loomix) [🔗](https://loomix.harshsingh.me) | Drop-in video player component | TypeScript · React | Apache-2.0 | 244 | 🟢 2026-09-14 |
 | [IBM/extract-textual-insights-from-video](https://github.com/IBM/extract-textual-insights-from-video) | Extract Textual insights from Video | JavaScript | Apache-2.0 | 34 | 🔴 2025-09-17 |
 
-### Voice, Audio & Music (52)
+### Voice, Audio & Music (53)
 
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
+| [openai/whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision | Python | MIT | 109.7k | 🟢 2026-08-31 |
 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) [🔗](https://voicebox.sh) | The open-source AI voice studio. Clone, dictate, create. | TypeScript | MIT | 56.0k | 🟢 2026-08-09 |
 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ | C++ | MIT | 54.0k | 🟢 2026-09-28 |
 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) [🔗](https://voicestudio.sh) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook cre... | Python · Tauri | AGPL-3.0 | 47.1k | 🟢 2026-09-29 |
@@ -476,15 +476,16 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [kaolti/omarchy-cosmos-screensaver](https://github.com/kaolti/omarchy-cosmos-screensaver) | A GLSL screensaver for Omarchy: the wordmark grows out of pixel squares, catches a refracting glass ripple, then dissolves. Rendered by Ghostty. | HTML | MIT | 8 | 🟢 2026-08-29 |
 | [hxmzaehsan/last-train-records](https://github.com/hxmzaehsan/last-train-records) [🔗](https://hxmzaehsan.github.io/last-train-records/) | A vinyl record that becomes a miniature late-night Tokyo railway neighbourhood, rendered live in Three.js. | TypeScript · Three.js, WebGL | Custom | 3 | 🟢 2026-08-12 |
 
-### Animation, Canvas & SVG (57)
+### Animation, Canvas & SVG (58)
 
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
+| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) [🔗](https://excalidraw.com) | Virtual whiteboard for sketching hand-drawn like diagrams | TypeScript | MIT | 133.2k | 🟢 2026-09-29 |
 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) [🔗](https://mermaid.ai/open-source/) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | TypeScript | MIT | 90.5k | 🟢 2026-09-29 |
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) [🔗](https://tt-a1i.github.io/archify/) | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. | JavaScript | MIT | 74.0k | 🟢 2026-09-29 |
 | [juliangarnier/anime](https://github.com/juliangarnier/anime) [🔗](https://animejs.com) | JavaScript animation engine | JavaScript | MIT | 73.2k | 🟢 2026-08-21 |
 | [tldraw/tldraw](https://github.com/tldraw/tldraw) [🔗](https://tldraw.dev) | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. | TypeScript · React | Custom | 50.6k | 🟢 2026-09-29 |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) [🔗](https://cathrynlavery.github.io/diagram-design/) | Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. | HTML | MIT | 42.7k | 🟢 2026-09-29 |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) [🔗](https://cathrynlavery.github.io/diagram-design/) | Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. | HTML | MIT | 42.8k | 🟢 2026-09-29 |
 | [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) [🔗](http://alvarotrigo.com/fullPage/) | fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple | JavaScript | GPL-3.0 | 35.4k | 🟢 2026-09-20 |
 | [motiondivision/motion](https://github.com/motiondivision/motion) [🔗](https://motion.dev) | A modern animation library for React and JavaScript | TypeScript · React | MIT | 33.8k | 🟢 2026-09-29 |
 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/ | JavaScript | MIT | 32.1k | 🔴 2025-09-01 |
@@ -552,7 +553,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [apache/casbin](https://github.com/apache/casbin) [🔗](https://casbin.apache.org/) | Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC. | Go | Apache-2.0 | 20.4k | 🟢 2026-09-11 |
 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) [🔗](https://docs.nvidia.com/skills/scanning-agent-skills) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks... | Python | Apache-2.0 | 18.6k | 🟢 2026-09-29 |
 | [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) [🔗](https://obfuscator.io) | A powerful obfuscator for JavaScript and Node.js | TypeScript · Node.js | BSD-2-Clause | 16.3k | 🟢 2026-09-26 |
-| [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) [🔗](https://cryptomator.org) | Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. | Java | GPL-3.0 | 16.2k | 🟢 2026-09-28 |
+| [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) [🔗](https://cryptomator.org) | Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. | Java | GPL-3.0 | 16.2k | 🟢 2026-09-29 |
 | [logto-io/logto](https://github.com/logto-io/logto) [🔗](https://logto.io) | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. | TypeScript | MPL-2.0 | 14.6k | 🟢 2026-09-29 |
 | [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio) [🔗](https://presidio.dataprivacystack.org) | An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, patt... | Python | MIT | 11.1k | 🟢 2026-09-29 |
 | [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) [🔗](https://deepsec.sh/) | Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents | TypeScript | Apache-2.0 | 8.1k | 🟢 2026-09-29 |
@@ -635,7 +636,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) | One AI trade decision every Monad block. Jev on Kuru MON-USDC. | TypeScript | MIT | 2.7k | 🟢 2026-09-17 |
 | [6551Team/opennews-mcp](https://github.com/6551Team/opennews-mcp) [🔗](https://6551.io/mcp) | News Aggregation · AI Ratings · Trading Signals · Real-time Updates | Python | MIT | 2.4k | 🟢 2026-09-14 |
 | [cinar/indicator](https://github.com/cinar/indicator) | High-performance technical analysis indicators and backtesting framework in Go. Zero dependencies. ✨ See how! 👀 | Go | AGPL-3.0 | 1.8k | 🟢 2026-09-14 |
-| [relaticle/relaticle](https://github.com/relaticle/relaticle) [🔗](https://relaticle.com) | Open-source CRM with native AI agent support. 37 MCP tools, REST API, self-hosted. Built with Laravel &amp; Filament | PHP · Laravel | AGPL-3.0 | 1.7k | 🟢 2026-09-27 |
+| [relaticle/relaticle](https://github.com/relaticle/relaticle) [🔗](https://relaticle.com) | Open-source CRM with native AI agent support. 37 MCP tools, REST API, self-hosted. Built with Laravel &amp; Filament | PHP · Laravel | AGPL-3.0 | 1.7k | 🟢 2026-09-29 |
 | [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) [🔗](https://easyinvoicepdf.com) | Free &amp; Open-Source Invoice Generator - No Sign-Up, No Ads, Instant PDF Export, 100% In-Browser, and Fully Customizable Templates. ⭐ Star the repo if you... | TypeScript · Next.js, React | AGPL-3.0 | 1.1k | 🟢 2026-09-29 |
 | [hi-imcodeman/stock-nse-india](https://github.com/hi-imcodeman/stock-nse-india) [🔗](https://hi-imcodeman.github.io/stock-nse-india/) | API for National Stock Exchange of India (NSE) | TypeScript · Node.js | MIT | 289 | 🟡 2026-05-27 |
 | [UniBee-Billing/unibee](https://github.com/UniBee-Billing/unibee) [🔗](https://unibee.dev/) | standalone deploy of unibee project | - | AGPL-3.0 | 231 | 🟡 2026-02-23 |
@@ -670,7 +671,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [0xranx/OpenContext](https://github.com/0xranx/OpenContext) [🔗](https://0xranx.github.io/OpenContext/) | A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop G... | JavaScript · Tauri | MIT | 1.2k | 🟡 2026-06-16 |
 | [christopherkarani/Wax](https://github.com/christopherkarani/Wax) [🔗](https://christopherkarani.github.io/Wax/) | Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. No Server. No API. One File. Pure Swift | Swift | Apache-2.0 | 802 | 🟢 2026-09-28 |
 | [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) [🔗](https://okf-memory.dev) | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disc... | Go | MIT | 738 | 🟢 2026-09-27 |
-| [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) | Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer. | TypeScript · SQLite | MIT | 629 | 🟡 2026-05-03 |
+| [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) | Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer. | TypeScript · SQLite | MIT | 630 | 🟡 2026-05-03 |
 | [LeoYeAI/openclaw-auto-dream](https://github.com/LeoYeAI/openclaw-auto-dream) [🔗](https://myclaw.ai) | Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai | HTML | MIT | 549 | 🟡 2026-03-31 |
 | [caura-ai/caura](https://github.com/caura-ai/caura) [🔗](https://caura.ai) | Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, k... | Python · FastAPI | Apache-2.0 | 541 | 🟢 2026-09-29 |
 | [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) [🔗](https://misakanet.org) | 📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. \| https://misakanet.org | Python · SQLite | Apache-2.0 | 517 | 🟢 2026-09-29 |
@@ -1246,7 +1247,7 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 | [google/sam](https://github.com/google/sam) [🔗](https://sam-mesh.dev/) | SAM | Go | Apache-2.0 | 950 | 🟢 2026-09-29 |
 | [jasonjmcghee/WebMCP](https://github.com/jasonjmcghee/WebMCP) [🔗](https://webmcp.dev/) | Early WebMCP proposal / implementation - since evolved and worked on by much more capable folks that develop the web: https://github.com/webmachinelearning/w... | JavaScript | MIT | 876 | 🟡 2026-02-15 |
 | [gemini-cli-extensions/workspace](https://github.com/gemini-cli-extensions/workspace) [🔗](https://gemini-cli-extensions.github.io/workspace/) | Access Google Workspace when using Gemini CLI | TypeScript | Apache-2.0 | 643 | 🟢 2026-09-29 |
-| [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) [🔗](https://anythingmcp.com) | Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude &amp; ChatGPT. Self-hosted. 265 connectors: SAP S/4HANA &amp; Business One, ERP, e-c... | TypeScript | AGPL-3.0 | 592 | 🟢 2026-09-29 |
+| [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) [🔗](https://anythingmcp.com) | Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude &amp; ChatGPT. Self-hosted. 265 connectors: SAP S/4HANA &amp; Business One, ERP, e-c... | TypeScript | AGPL-3.0 | 595 | 🟢 2026-09-29 |
 | [withoneai/cli](https://github.com/withoneai/cli) [🔗](https://www.npmjs.com/package/@withone/cli) | A command-line tool to give your agents access to any app, create workflows and manage your One account. | TypeScript | None | 411 | 🟢 2026-09-22 |
 | [monid-ai/monid](https://github.com/monid-ai/monid) [🔗](https://monid.ai) | Monid - OpenRouter for agent tools. Join our community at https://discord.gg/rQzztcgJV8 | TypeScript | MIT | 391 | 🟢 2026-09-28 |
 | [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) [🔗](https://mcpproxy.app) | Supercharge AI Agents, Safely | Go · Docker | MIT | 380 | 🟢 2026-09-29 |
@@ -1256,11 +1257,10 @@ Categorized index of 1349 repositories starred by [@AIimagined](https://github.c
 
 ## Data & ML
 
-### Research Papers & Models (36)
+### Research Papers & Models (35)
 
 | Repository | Details | Stack | License | Stars | Last updated |
 |---|---|---|---|---|---|
-| [openai/whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision | Python | MIT | 109.7k | 🟢 2026-08-31 |
 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | (ECCV 2026 oral &amp; best paper candidate) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction | Python | Apache-2.0 | 17.1k | 🟢 2026-09-08 |
 | [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) [🔗](https://discord.gg/EamjgSaEQf) | A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature. | Python · PyTorch | MIT | 14.9k | 🟡 2026-05-23 |
 | [microsoft/LoRA](https://github.com/microsoft/LoRA) [🔗](https://arxiv.org/abs/2106.09685) | Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models" | Python · PyTorch | MIT | 13.8k | 🔴 2024-12-17 |

@@ -25,7 +25,8 @@ MODELS = os.environ.get(
 ).split(",")
 ROOT = Path(__file__).parent
 RULES_FILE = ROOT / "categories.json"
-OVERRIDES_FILE = ROOT / "overrides.json"
+OVERRIDES_FILE = ROOT / "overrides.json"  # reviewed by a person, always wins
+AUTO_FILE = ROOT / "auto.json"  # written by the LLM step
 UNCATEGORIZED = ("Uncategorized", "Unsorted")
 LLM_CHUNK = 100  # repos per request, keeps the JSON reply small
 THIN_DESCRIPTION = 60  # shorter than this and the README is sent to the LLM as well
@@ -235,7 +236,7 @@ def anchor(heading):
     return re.sub(r"[^\w\- ]", "", heading.lower()).replace(" ", "-")
 
 
-def render(user, repos, placed, order, today):
+def render(user, repos, placed, order, today, unreviewed=()):
     tree = {}
     for repo in repos:
         category, group = placed[repo["full_name"]]
@@ -255,7 +256,8 @@ def render(user, repos, placed, order, today):
         "**Last updated:** 🟢 under 3 months ago · 🟡 under 1 year · 🔴 over 1 year · 📦 archived  ",
         "**License:** MIT, Apache-2.0, BSD = free for commercial use · GPL, AGPL = changes must be "
         "open-sourced · None, Custom = check with the author before using  ",
-        "**🔗** = project website or demo",
+        "**🔗** = project website or demo · **🤖** = sorted automatically, not yet reviewed "
+        "(add it to `overrides.json` to confirm or move it)",
         "",
         "## Contents",
         "",
@@ -280,6 +282,8 @@ def render(user, repos, placed, order, today):
                 home = r.get("homepage") or ""
                 if re.fullmatch(r"https?://[^\s()|<>]+", home):
                     name += f" [🔗]({home})"
+                if r["full_name"] in unreviewed:
+                    name += " 🤖"
                 out.append(
                     f"| {name} | {cell(r.get('description')) or '-'} | {stack(r)} | {license_name(r)} "
                     f"| {stars(r['stargazers_count'])} | {updated(r, today)} |"
@@ -296,35 +300,28 @@ def main():
     if not repos:
         sys.exit(f"no starred repos returned for {USER}, README left untouched")
 
-    # overrides.json is final. Anything not in it yet goes to the LLM, and its answer is saved there.
-    # Keyword rules only fill in for repos the LLM could not be asked about; that result is not saved,
-    # so the LLM gets another try on the next run.
-    placed = {r["full_name"]: classify(r, compiled, overrides) for r in repos}
-    pending = [r for r in repos if r["full_name"] not in overrides]
+    # Trust order: overrides.json (reviewed by a person) > auto.json (LLM answers) > keyword rules.
+    # LLM answers are kept apart and marked on the page, so a weak answer never passes as reviewed.
+    # Keyword results are not saved, so the LLM gets another try at those repos on the next run.
+    auto = json.loads(AUTO_FILE.read_text(encoding="utf-8")) if AUTO_FILE.exists() else {}
+    pending = [r for r in repos if r["full_name"] not in overrides and r["full_name"] not in auto]
 
     key = os.environ.get("OPENROUTER_API_KEY")
     if pending and key:
-        try:
-            found = llm_classify(pending, rules, key)
-        except urllib.error.HTTPError as e:
-            detail = e.read(300).decode("utf-8", "replace")
-            print(f"warning: LLM step failed (HTTP {e.code}: {detail}), skipping", file=sys.stderr)
-        except (OSError, ValueError, KeyError, IndexError, TypeError) as e:
-            # Network or malformed-reply failure: keep going on keyword rules.
-            print(f"warning: LLM step failed ({type(e).__name__}: {e}), skipping", file=sys.stderr)
-        else:
-            overrides.update(found)
-            placed.update({name: tuple(target) for name, target in found.items()})
-            OVERRIDES_FILE.write_text(
-                json.dumps(overrides, indent=2, sort_keys=True, ensure_ascii=False) + "\n", encoding="utf-8"
-            )
+        auto.update(llm_classify(pending, rules, key))
+    starred = {r["full_name"] for r in repos}
+    auto = {n: t for n, t in auto.items() if n in starred and n not in overrides}
+    AUTO_FILE.write_text(json.dumps(auto, indent=2, sort_keys=True, ensure_ascii=False) + "\n", encoding="utf-8")
+
+    placed = {r["full_name"]: classify(r, compiled, {**auto, **overrides}) for r in repos}
 
     order = [(r["category"], r["group"]) for r in rules]
     today = datetime.now(timezone.utc).date()
-    (ROOT / "README.md").write_text(render(USER, repos, placed, order, today), encoding="utf-8")
+    unreviewed = starred - set(overrides)
+    (ROOT / "README.md").write_text(render(USER, repos, placed, order, today, unreviewed), encoding="utf-8")
     left = sum(1 for t in placed.values() if t == UNCATEGORIZED)
-    by_rules = sum(1 for r in repos if r["full_name"] not in overrides)
-    print(f"{len(repos)} repos, {left} uncategorized, {by_rules} placed by keyword rules only")
+    print(f"{len(repos)} repos: {len(starred & set(overrides))} reviewed, {len(auto)} placed by LLM, "
+          f"{len(unreviewed) - len(auto)} by keyword rules, {left} uncategorized")
 
 
 def selftest():

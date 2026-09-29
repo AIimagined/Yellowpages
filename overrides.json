@@ -2368,8 +2368,8 @@
     "Charts, Analytics & Dashboards"
   ],
   "excalidraw/excalidraw": [
-    "Lists & Learning",
-    "Awesome Lists"
+    "Graphics & Animation",
+    "Animation, Canvas & SVG"
   ],
   "experiencor/image-to-3d-bbox": [
     "Data & ML",
@@ -3495,6 +3495,10 @@
     "Finance",
     "Finance, Trading & Business"
   ],
+  "mem0ai/mem0": [
+    "AI Agents",
+    "Agent Memory & Knowledge Graphs"
+  ],
   "mermaid-js/mermaid": [
     "Graphics & Animation",
     "Animation, Canvas & SVG"
@@ -4004,8 +4008,8 @@
     "Libraries & Dev Tools"
   ],
   "openai/whisper": [
-    "Data & ML",
-    "Research Papers & Models"
+    "Media",
+    "Voice, Audio & Music"
   ],
   "openclaw/agent-skills": [
     "AI Coding",
