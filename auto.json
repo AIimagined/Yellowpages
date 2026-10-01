@@ -1,1 +1,30 @@
-{}
+{
+  "FlashML-org/FreeToken": [
+    "LLM Tooling",
+    "Local Models & Inference"
+  ],
+  "Gentleman-Programming/gentle-ai": [
+    "AI Coding",
+    "Skill Collections & Marketplaces"
+  ],
+  "Metabuilder-Labs/tokenjam": [
+    "LLM Tooling",
+    "Observability & Evals"
+  ],
+  "Orkas-AI/Orkas": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "enricoros/big-AGI": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "microsoft/TinyTroupe": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "plannotator/effective-html": [
+    "AI Coding",
+    "Skills: Design & UI"
+  ]
+}
