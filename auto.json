@@ -7,6 +7,14 @@
     "AI Coding",
     "Skill Collections & Marketplaces"
   ],
+  "HarnessMD/munder-difflin": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
+  "LeoYeAI/talewell": [
+    "AI Agents",
+    "Agent Memory & Knowledge Graphs"
+  ],
   "Metabuilder-Labs/tokenjam": [
     "LLM Tooling",
     "Observability & Evals"
@@ -15,6 +23,10 @@
     "AI Agents",
     "Multi-Agent Orchestration"
   ],
+  "Siddhant-K-code/distill": [
+    "AI Agents",
+    "Agent Memory & Knowledge Graphs"
+  ],
   "enricoros/big-AGI": [
     "AI Agents",
     "Agent Frameworks & Assistants"
@@ -22,6 +34,10 @@
   "microsoft/TinyTroupe": [
     "AI Agents",
     "Multi-Agent Orchestration"
+  ],
+  "odysseus-dev/odysseus": [
+    "Apps & Utilities",
+    "Self-Hosted"
   ],
   "plannotator/effective-html": [
     "AI Coding",
