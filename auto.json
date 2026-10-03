@@ -1,4 +1,8 @@
 {
+  "B16f00t/whapa": [
+    "Security",
+    "Security Tools"
+  ],
   "FlashML-org/FreeToken": [
     "LLM Tooling",
     "Local Models & Inference"
@@ -27,9 +31,25 @@
     "AI Agents",
     "Agent Memory & Knowledge Graphs"
   ],
+  "chrxh/alien": [
+    "Apps & Utilities",
+    "Desktop & Mobile Apps"
+  ],
+  "closedloop-ai/claude-plugins": [
+    "AI Coding",
+    "Skill Collections & Marketplaces"
+  ],
+  "ejbills/DockDoor": [
+    "Apps & Utilities",
+    "Desktop & Mobile Apps"
+  ],
   "enricoros/big-AGI": [
     "AI Agents",
     "Agent Frameworks & Assistants"
+  ],
+  "m0bilesecurity/RMS-Runtime-Mobile-Security": [
+    "Security",
+    "Security Tools"
   ],
   "microsoft/TinyTroupe": [
     "AI Agents",
@@ -39,8 +59,24 @@
     "Apps & Utilities",
     "Self-Hosted"
   ],
+  "pawurb/hotpath-rs": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
+  ],
   "plannotator/effective-html": [
     "AI Coding",
     "Skills: Design & UI"
+  ],
+  "temporalio/skill-temporal-developer": [
+    "AI Coding",
+    "Skills: Engineering & Workflow"
+  ],
+  "xixu-me/awesome-persona-distill-skills": [
+    "Lists & Learning",
+    "Awesome Lists"
+  ],
+  "yihui-dev/awesome-opus5-5-videos": [
+    "Lists & Learning",
+    "Awesome Lists"
   ]
 }
