@@ -1,4 +1,12 @@
 {
+  "AgentToolkit/altk-evolve": [
+    "AI Agents",
+    "Agent Memory & Knowledge Graphs"
+  ],
+  "AtlasCloudAI/awesome-seedance-2.5-prompts-skills": [
+    "Lists & Learning",
+    "Awesome Lists"
+  ],
   "B16f00t/whapa": [
     "Security",
     "Security Tools"
@@ -19,9 +27,17 @@
     "AI Agents",
     "Agent Memory & Knowledge Graphs"
   ],
+  "Louis-CFM/coucou": [
+    "Apps & Utilities",
+    "Desktop & Mobile Apps"
+  ],
   "Metabuilder-Labs/tokenjam": [
     "LLM Tooling",
     "Observability & Evals"
+  ],
+  "OrchestratorInc/agent-orchestrator": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
   ],
   "Orkas-AI/Orkas": [
     "AI Agents",
@@ -39,6 +55,18 @@
     "AI Coding",
     "Skill Collections & Marketplaces"
   ],
+  "cneuralnetwork/kharcha": [
+    "Finance",
+    "Finance, Trading & Business"
+  ],
+  "cneuralnetwork/monsoon-masala": [
+    "Apps & Utilities",
+    "Games & Game Engines"
+  ],
+  "codewhale-hq/Codewhale": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
   "ejbills/DockDoor": [
     "Apps & Utilities",
     "Desktop & Mobile Apps"
@@ -46,6 +74,10 @@
   "enricoros/big-AGI": [
     "AI Agents",
     "Agent Frameworks & Assistants"
+  ],
+  "its-kumar-yash/kharcha": [
+    "Finance",
+    "Finance, Trading & Business"
   ],
   "m0bilesecurity/RMS-Runtime-Mobile-Security": [
     "Security",
