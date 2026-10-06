@@ -1,5 +1,3 @@
-# Yellowpages
-
 <p align="center"><img src="assets/yellowpages-logo.png" alt="Yellowpages" width="620"></p>
 
 Categorized index of 1403 repositories starred by [@AIimagined](https://github.com/AIimagined?tab=stars). Repos with the same purpose sit in the same group, sorted by stars. Nothing is cloned here: every entry links to the original repository.
