@@ -79,9 +79,17 @@
     "Finance",
     "Finance, Trading & Business"
   ],
+  "kargulstudio/kanban": [
+    "Developer Tools",
+    "Libraries & Dev Tools"
+  ],
   "m0bilesecurity/RMS-Runtime-Mobile-Security": [
     "Security",
     "Security Tools"
+  ],
+  "microsoft/CUAWright": [
+    "AI Agents",
+    "Browser & Computer Use"
   ],
   "microsoft/TinyTroupe": [
     "AI Agents",
