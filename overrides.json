@@ -248,8 +248,8 @@
     "Courses & Guides"
   ],
   "CaviraOSS/PageLM": [
-    "LLM Tooling",
-    "Chat UIs & LLM Apps"
+    "Education & Learning",
+    "Learning Platforms & AI Tutors"
   ],
   "Chalarangelo/30-seconds-of-code": [
     "Lists & Learning",
@@ -508,8 +508,8 @@
     "Code Search, Review & Analysis"
   ],
   "Gsync/jobsync": [
-    "Apps & Utilities",
-    "Notes & Productivity"
+    "Careers & Recruiting",
+    "Hiring & Job Search"
   ],
   "HKUDS/AgentSpace": [
     "AI Agents",
@@ -1104,8 +1104,8 @@
     "Research Papers & Models"
   ],
   "THU-MAIC/OpenMAIC": [
-    "LLM Tooling",
-    "Chat UIs & LLM Apps"
+    "Education & Learning",
+    "Learning Platforms & AI Tutors"
   ],
   "THUDM/GLM": [
     "Data & ML",
@@ -1360,8 +1360,8 @@
     "Animation, Canvas & SVG"
   ],
   "adrianhajdin/ai-resume-analyzer": [
-    "LLM Tooling",
-    "Chat UIs & LLM Apps"
+    "Careers & Recruiting",
+    "Hiring & Job Search"
   ],
   "aduermael/herm": [
     "AI Coding",
@@ -1520,8 +1520,8 @@
     "UI Components & Design"
   ],
   "anthropics/commerce-agents": [
-    "Finance",
-    "Finance, Trading & Business"
+    "E-commerce & Retail",
+    "Commerce Platforms & Agents"
   ],
   "anthropics/knowledge-work-plugins": [
     "AI Coding",
@@ -1644,12 +1644,12 @@
     "Skills: Engineering & Workflow"
   ],
   "bagisto/bagisto": [
-    "Finance",
-    "Finance, Trading & Business"
+    "E-commerce & Retail",
+    "Commerce Platforms & Agents"
   ],
   "bagisto/opensource-ecommerce-mobile-app": [
-    "Finance",
-    "Finance, Trading & Business"
+    "E-commerce & Retail",
+    "Commerce Platforms & Agents"
   ],
   "baowenbo/DAIN": [
     "Data & ML",
@@ -1984,8 +1984,8 @@
     "Skills: Research, Writing & Business"
   ],
   "coreyhaines31/marketingskills": [
-    "AI Coding",
-    "Skills: Research, Writing & Business"
+    "Business & GTM",
+    "Marketing & Growth"
   ],
   "coroot/coroot": [
     "Automation & DevOps",
@@ -2344,8 +2344,8 @@
     "Desktop & Mobile Apps"
   ],
   "eracle/OpenOutreach": [
-    "Automation & DevOps",
-    "Workflow Automation"
+    "Business & GTM",
+    "Lead Generation & Prospecting"
   ],
   "erincatto/box3d": [
     "Graphics & Animation",
@@ -2980,8 +2980,8 @@
     "RAG & Search"
   ],
   "interviewstreet/hiring-agent": [
-    "LLM Tooling",
-    "Chat UIs & LLM Apps"
+    "Careers & Recruiting",
+    "Hiring & Job Search"
   ],
   "invertase/docs.page": [
     "Developer Tools",
@@ -3492,8 +3492,8 @@
     "AI Video Generation & Agents"
   ],
   "melgarafael/DeskcommCRM": [
-    "Finance",
-    "Finance, Trading & Business"
+    "Business & GTM",
+    "Sales & CRM"
   ],
   "mem0ai/mem0": [
     "AI Agents",
@@ -4336,8 +4336,8 @@
     "Databases"
   ],
   "relaticle/relaticle": [
-    "Finance",
-    "Finance, Trading & Business"
+    "Business & GTM",
+    "Sales & CRM"
   ],
   "release-drafter/release-drafter": [
     "Developer Tools",
@@ -4956,8 +4956,8 @@
     "Voice, Audio & Music"
   ],
   "trycompai/crm": [
-    "Finance",
-    "Finance, Trading & Business"
+    "Business & GTM",
+    "Sales & CRM"
   ],
   "trycua/cua": [
     "AI Agents",
@@ -5384,12 +5384,12 @@
     "Browser & Computer Use"
   ],
   "zubair-trabzada/ai-marketing-claude": [
-    "AI Coding",
-    "Skills: Research, Writing & Business"
+    "Business & GTM",
+    "Marketing & Growth"
   ],
   "zubair-trabzada/ai-sales-team-claude": [
-    "AI Coding",
-    "Skills: Research, Writing & Business"
+    "Business & GTM",
+    "Sales & CRM"
   ],
   "zubair-trabzada/geo-seo-claude": [
     "AI Coding",
