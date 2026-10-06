@@ -3,6 +3,10 @@
     "AI Agents",
     "Agent Memory & Knowledge Graphs"
   ],
+  "Aryan-Pardeshi/DeepResearch_AI": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
   "AtlasCloudAI/awesome-seedance-2.5-prompts-skills": [
     "Lists & Learning",
     "Awesome Lists"
@@ -11,17 +15,37 @@
     "Security",
     "Security Tools"
   ],
+  "Dicklesworthstone/meta_skill": [
+    "AI Coding",
+    "Skill Collections & Marketplaces"
+  ],
+  "Dolibarr/dolibarr": [
+    "Finance",
+    "Finance, Trading & Business"
+  ],
   "FlashML-org/FreeToken": [
     "LLM Tooling",
     "Local Models & Inference"
   ],
+  "FujiwaraChoki/MoneyPrinterV2": [
+    "Business & GTM",
+    "Outreach & Engagement"
+  ],
   "Gentleman-Programming/gentle-ai": [
+    "AI Coding",
+    "Skill Collections & Marketplaces"
+  ],
+  "Goldziher/ai-rulez": [
     "AI Coding",
     "Skill Collections & Marketplaces"
   ],
   "HarnessMD/munder-difflin": [
     "AI Agents",
     "Multi-Agent Orchestration"
+  ],
+  "KimYx0207/Meta_Kim": [
+    "AI Coding",
+    "Skills: Engineering & Workflow"
   ],
   "LeoYeAI/talewell": [
     "AI Agents",
@@ -35,6 +59,10 @@
     "LLM Tooling",
     "Observability & Evals"
   ],
+  "NodeDB-Lab/nodedb": [
+    "AI Agents",
+    "Agent Memory & Knowledge Graphs"
+  ],
   "OrchestratorInc/agent-orchestrator": [
     "AI Agents",
     "Multi-Agent Orchestration"
@@ -46,6 +74,14 @@
   "Siddhant-K-code/distill": [
     "AI Agents",
     "Agent Memory & Knowledge Graphs"
+  ],
+  "aieln/awesome-persona-distill-skills": [
+    "Lists & Learning",
+    "Awesome Lists"
+  ],
+  "builderz-labs/marketing-dashboard": [
+    "Business & GTM",
+    "Marketing & Growth"
   ],
   "chrxh/alien": [
     "Apps & Utilities",
@@ -71,9 +107,41 @@
     "Apps & Utilities",
     "Desktop & Mobile Apps"
   ],
+  "embedded-society/altium-designer-mcp": [
+    "MCP",
+    "MCP Servers & Tools"
+  ],
   "enricoros/big-AGI": [
     "AI Agents",
     "Agent Frameworks & Assistants"
+  ],
+  "ericosiu/ai-marketing-skills": [
+    "Business & GTM",
+    "Marketing & Growth"
+  ],
+  "frappe/crm": [
+    "Business & GTM",
+    "Sales & CRM"
+  ],
+  "frappe/erpnext": [
+    "Finance",
+    "Finance, Trading & Business"
+  ],
+  "gooseworks-ai/goose-skills": [
+    "Business & GTM",
+    "Marketing & Growth"
+  ],
+  "growchief/growchief": [
+    "Business & GTM",
+    "Outreach & Engagement"
+  ],
+  "hemansnation/AI-Engineer-Headquarters": [
+    "Lists & Learning",
+    "Awesome Lists"
+  ],
+  "huggingface/aisheets": [
+    "Data & ML",
+    "Machine Learning"
   ],
   "its-kumar-yash/kharcha": [
     "Finance",
@@ -82,6 +150,14 @@
   "kargulstudio/kanban": [
     "Developer Tools",
     "Libraries & Dev Tools"
+  ],
+  "krayin/laravel-crm": [
+    "Business & GTM",
+    "Sales & CRM"
+  ],
+  "luobosibing2/dsh-jev-plugin": [
+    "AI Coding",
+    "Skills: Engineering & Workflow"
   ],
   "m0bilesecurity/RMS-Runtime-Mobile-Security": [
     "Security",
@@ -95,13 +171,41 @@
     "AI Agents",
     "Multi-Agent Orchestration"
   ],
+  "n24q02m/crg": [
+    "AI Coding",
+    "Code Search, Review & Analysis"
+  ],
+  "naw103/foremerge": [
+    "AI Coding",
+    "Skills: Engineering & Workflow"
+  ],
+  "oasm-platform/open-asm": [
+    "Security",
+    "Security Tools"
+  ],
+  "odoo/odoo": [
+    "Finance",
+    "Finance, Trading & Business"
+  ],
   "odysseus-dev/odysseus": [
     "Apps & Utilities",
     "Self-Hosted"
   ],
+  "omkarcloud/google-maps-scraper": [
+    "Business & GTM",
+    "Lead Generation & Prospecting"
+  ],
+  "onvoyage-ai/gtm-engineer-skills": [
+    "Business & GTM",
+    "Marketing & Growth"
+  ],
   "pawurb/hotpath-rs": [
     "Automation & DevOps",
     "DevOps & Infrastructure"
+  ],
+  "pendpost/pendpost": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
   ],
   "permissionlesstech/bitchat": [
     "Apps & Utilities",
@@ -111,13 +215,21 @@
     "AI Coding",
     "Skills: Design & UI"
   ],
+  "reviu-dev/reviu": [
+    "AI Coding",
+    "Code Search, Review & Analysis"
+  ],
+  "sherlock-project/sherlock": [
+    "Security",
+    "Security Tools"
+  ],
   "temporalio/skill-temporal-developer": [
     "AI Coding",
     "Skills: Engineering & Workflow"
   ],
-  "xixu-me/awesome-persona-distill-skills": [
-    "Lists & Learning",
-    "Awesome Lists"
+  "twentyhq/twenty": [
+    "Business & GTM",
+    "Sales & CRM"
   ],
   "yihui-dev/awesome-opus5-5-videos": [
     "Lists & Learning",
