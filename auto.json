@@ -107,6 +107,10 @@
     "Apps & Utilities",
     "Desktop & Mobile Apps"
   ],
+  "elie222/botdirectory.ai": [
+    "Lists & Learning",
+    "Awesome Lists"
+  ],
   "embedded-society/altium-designer-mcp": [
     "MCP",
     "MCP Servers & Tools"
@@ -170,6 +174,10 @@
   "microsoft/TinyTroupe": [
     "AI Agents",
     "Multi-Agent Orchestration"
+  ],
+  "multikernel/sandlock": [
+    "Security",
+    "Security Tools"
   ],
   "n24q02m/crg": [
     "AI Coding",
