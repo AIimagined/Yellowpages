@@ -249,6 +249,8 @@ def render(user, repos, placed, order, today, unreviewed=()):
     out = [
         "# Yellowpages",
         "",
+        '<p align="center"><img src="assets/yellowpages-logo.png" alt="Yellowpages" width="620"></p>',
+        "",
         f"Categorized index of {len(repos)} repositories starred by "
         f"[@{user}](https://github.com/{user}?tab=stars). Repos with the same purpose sit in the same group, "
         "sorted by stars. Nothing is cloned here: every entry links to the original repository.",
