@@ -197,6 +197,8 @@ def ask(body, key):
 
 def parse_answer(text):
     """Free models often wrap JSON in prose or code fences, so take the outermost object."""
+    if not isinstance(text, str) or not text.strip():
+        raise ValueError("model response had no text content")
     return json.loads(text[text.index("{") : text.rindex("}") + 1])["repos"]
 
 
@@ -342,6 +344,13 @@ def selftest():
     assert anchor("Voice & Audio") == "voice--audio"
     fenced = 'Sure:\n```json\n{"repos": [{"name": "o/x", "group": "A / B"}]}\n```'
     assert parse_answer(fenced) == [{"name": "o/x", "group": "A / B"}]
+    for empty in (None, "", "   "):
+        try:
+            parse_answer(empty)
+        except ValueError:
+            pass
+        else:
+            raise AssertionError("empty model response content must be rejected")
     assert stack({"language": "TypeScript", "topics": ["react", "ai", "nextjs", "vue"]}) == "TypeScript · React, Next.js"
     assert stack({"language": None, "topics": []}) == "-"
     today = datetime(2026, 9, 29).date()
