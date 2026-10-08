@@ -23,6 +23,10 @@
     "Finance",
     "Finance, Trading & Business"
   ],
+  "EuniAI/awesome-code-agents": [
+    "Lists & Learning",
+    "Awesome Lists"
+  ],
   "FlashML-org/FreeToken": [
     "LLM Tooling",
     "Local Models & Inference"
@@ -74,10 +78,6 @@
   "Siddhant-K-code/distill": [
     "AI Agents",
     "Agent Memory & Knowledge Graphs"
-  ],
-  "aieln/awesome-persona-distill-skills": [
-    "Lists & Learning",
-    "Awesome Lists"
   ],
   "builderz-labs/marketing-dashboard": [
     "Business & GTM",
@@ -159,6 +159,10 @@
     "Business & GTM",
     "Sales & CRM"
   ],
+  "legioncodeinc/honeycomb": [
+    "AI Agents",
+    "Agent Memory & Knowledge Graphs"
+  ],
   "luobosibing2/dsh-jev-plugin": [
     "AI Coding",
     "Skills: Engineering & Workflow"
@@ -238,6 +242,10 @@
   "twentyhq/twenty": [
     "Business & GTM",
     "Sales & CRM"
+  ],
+  "xixu-me/awesome-persona-distill-skills": [
+    "Lists & Learning",
+    "Awesome Lists"
   ],
   "yihui-dev/awesome-opus5-5-videos": [
     "Lists & Learning",
