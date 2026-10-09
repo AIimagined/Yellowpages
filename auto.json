@@ -51,6 +51,10 @@
     "AI Coding",
     "Skills: Engineering & Workflow"
   ],
+  "KingKongRobotics/jumper": [
+    "Hardware & Robotics",
+    "Hardware, IoT & Robotics"
+  ],
   "LeoYeAI/talewell": [
     "AI Agents",
     "Agent Memory & Knowledge Graphs"
@@ -78,6 +82,10 @@
   "Siddhant-K-code/distill": [
     "AI Agents",
     "Agent Memory & Knowledge Graphs"
+  ],
+  "borgmatic-collective/borgmatic": [
+    "Automation & DevOps",
+    "DevOps & Infrastructure"
   ],
   "builderz-labs/marketing-dashboard": [
     "Business & GTM",
@@ -134,6 +142,10 @@
   "gooseworks-ai/goose-skills": [
     "Business & GTM",
     "Marketing & Growth"
+  ],
+  "gr8rstudio/gr8r-studio": [
+    "Apps & Utilities",
+    "Notes & Productivity"
   ],
   "growchief/growchief": [
     "Business & GTM",
@@ -203,6 +215,10 @@
     "Apps & Utilities",
     "Self-Hosted"
   ],
+  "oh-my-mermaid/oh-my-mermaid": [
+    "Graphics & Animation",
+    "Animation, Canvas & SVG"
+  ],
   "omkarcloud/google-maps-scraper": [
     "Business & GTM",
     "Lead Generation & Prospecting"
@@ -223,6 +239,10 @@
     "Apps & Utilities",
     "Desktop & Mobile Apps"
   ],
+  "pgrundev/pgbot": [
+    "Data & ML",
+    "Databases"
+  ],
   "plannotator/effective-html": [
     "AI Coding",
     "Skills: Design & UI"
@@ -235,6 +255,10 @@
     "Security",
     "Security Tools"
   ],
+  "siddsachar/row-bot": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
   "temporalio/skill-temporal-developer": [
     "AI Coding",
     "Skills: Engineering & Workflow"
@@ -246,6 +270,10 @@
   "xixu-me/awesome-persona-distill-skills": [
     "Lists & Learning",
     "Awesome Lists"
+  ],
+  "yifanfeng97/Hyper-Extract": [
+    "AI Agents",
+    "Agent Memory & Knowledge Graphs"
   ],
   "yihui-dev/awesome-opus5-5-videos": [
     "Lists & Learning",
