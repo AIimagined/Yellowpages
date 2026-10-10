@@ -1,4 +1,12 @@
 {
+  "199-biotechnologies/motion-dev-animations-skill": [
+    "Graphics & Animation",
+    "Animation, Canvas & SVG"
+  ],
+  "AbubakrChan/product-launch-motion": [
+    "Media",
+    "AI Video Generation & Agents"
+  ],
   "AgentToolkit/altk-evolve": [
     "AI Agents",
     "Agent Memory & Knowledge Graphs"
@@ -14,6 +22,10 @@
   "B16f00t/whapa": [
     "Security",
     "Security Tools"
+  ],
+  "Barty-Bart/motion-graphics": [
+    "Media",
+    "AI Video Generation & Agents"
   ],
   "Dicklesworthstone/meta_skill": [
     "AI Coding",
@@ -42,6 +54,10 @@
   "Goldziher/ai-rulez": [
     "AI Coding",
     "Skill Collections & Marketplaces"
+  ],
+  "HKUDS/ViMax": [
+    "Media",
+    "AI Video Generation & Agents"
   ],
   "HarnessMD/munder-difflin": [
     "AI Agents",
@@ -83,6 +99,10 @@
     "AI Agents",
     "Agent Memory & Knowledge Graphs"
   ],
+  "Sunwood-ai-labs/hyperframes-motion-reel-skill": [
+    "Media",
+    "AI Video Generation & Agents"
+  ],
   "borgmatic-collective/borgmatic": [
     "Automation & DevOps",
     "DevOps & Infrastructure"
@@ -111,6 +131,10 @@
     "AI Coding",
     "Coding Agents & CLIs"
   ],
+  "cth9191/animate": [
+    "Graphics & Animation",
+    "Animation, Canvas & SVG"
+  ],
   "ejbills/DockDoor": [
     "Apps & Utilities",
     "Desktop & Mobile Apps"
@@ -131,6 +155,10 @@
     "Business & GTM",
     "Marketing & Growth"
   ],
+  "frankxai/awesome-motion-design-agent-skills": [
+    "Lists & Learning",
+    "Awesome Lists"
+  ],
   "frappe/crm": [
     "Business & GTM",
     "Sales & CRM"
@@ -138,6 +166,10 @@
   "frappe/erpnext": [
     "Finance",
     "Finance, Trading & Business"
+  ],
+  "google/agentmesh": [
+    "MCP",
+    "MCP Servers & Tools"
   ],
   "gooseworks-ai/goose-skills": [
     "Business & GTM",
@@ -151,13 +183,29 @@
     "Business & GTM",
     "Outreach & Engagement"
   ],
+  "haidrrrry/claude-remotion-skill": [
+    "Media",
+    "AI Video Generation & Agents"
+  ],
   "hemansnation/AI-Engineer-Headquarters": [
     "Lists & Learning",
     "Awesome Lists"
   ],
+  "howseen-ai/claude-motion-design": [
+    "Media",
+    "AI Video Generation & Agents"
+  ],
   "huggingface/aisheets": [
     "Data & ML",
     "Machine Learning"
+  ],
+  "iam-veeramalla/observability-zero-to-hero": [
+    "Lists & Learning",
+    "Courses & Guides"
+  ],
+  "iart-ai/motion-design-skills": [
+    "Graphics & Animation",
+    "Animation, Canvas & SVG"
   ],
   "its-kumar-yash/kharcha": [
     "Finance",
@@ -190,6 +238,10 @@
   "microsoft/TinyTroupe": [
     "AI Agents",
     "Multi-Agent Orchestration"
+  ],
+  "miqdadbadjuber/anti-slop": [
+    "AI Coding",
+    "Skills: Design & UI"
   ],
   "multikernel/sandlock": [
     "Security",
@@ -266,6 +318,10 @@
   "twentyhq/twenty": [
     "Business & GTM",
     "Sales & CRM"
+  ],
+  "whaleyxbt/claude-motion": [
+    "Media",
+    "AI Video Generation & Agents"
   ],
   "xixu-me/awesome-persona-distill-skills": [
     "Lists & Learning",
