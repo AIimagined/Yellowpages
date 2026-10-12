@@ -247,6 +247,10 @@
     "AI Coding",
     "Skills: Design & UI"
   ],
+  "morluto/rea": [
+    "Security",
+    "Security Tools"
+  ],
   "multikernel/sandlock": [
     "Security",
     "Security Tools"
@@ -299,6 +303,10 @@
     "Data & ML",
     "Databases"
   ],
+  "pixtuoid/pixtuoid": [
+    "AI Coding",
+    "Skills: Design & UI"
+  ],
   "plannotator/effective-html": [
     "AI Coding",
     "Skills: Design & UI"
@@ -312,6 +320,10 @@
     "Security Tools"
   ],
   "siddsachar/row-bot": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
+  "skalesapp/skales": [
     "AI Agents",
     "Agent Frameworks & Assistants"
   ],
