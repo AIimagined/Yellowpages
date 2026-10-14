@@ -11,6 +11,10 @@
     "AI Agents",
     "Agent Memory & Knowledge Graphs"
   ],
+  "Anil-matcha/open-spaces": [
+    "Apps & Utilities",
+    "Self-Hosted"
+  ],
   "Aryan-Pardeshi/DeepResearch_AI": [
     "AI Agents",
     "Agent Frameworks & Assistants"
@@ -78,6 +82,10 @@
   "Louis-CFM/coucou": [
     "Apps & Utilities",
     "Desktop & Mobile Apps"
+  ],
+  "MaxMiksa/Autonomous-Company": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
   ],
   "Metabuilder-Labs/tokenjam": [
     "LLM Tooling",
@@ -334,6 +342,10 @@
   "temporalio/skill-temporal-developer": [
     "AI Coding",
     "Skills: Engineering & Workflow"
+  ],
+  "trailhq/Trail-Code": [
+    "MCP",
+    "MCP Servers & Tools"
   ],
   "twentyhq/twenty": [
     "Business & GTM",
