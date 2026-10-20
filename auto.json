@@ -207,6 +207,10 @@
     "Lists & Learning",
     "Awesome Lists"
   ],
+  "hotpath-rs/hotpath": [
+    "Lists & Learning",
+    "Awesome Lists"
+  ],
   "howseen-ai/claude-motion-design": [
     "Media",
     "AI Video Generation & Agents"
@@ -306,10 +310,6 @@
   "onvoyage-ai/gtm-engineer-skills": [
     "Business & GTM",
     "Marketing & Growth"
-  ],
-  "pawurb/hotpath-rs": [
-    "Automation & DevOps",
-    "DevOps & Infrastructure"
   ],
   "pendpost/pendpost": [
     "AI Agents",
