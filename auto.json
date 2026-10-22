@@ -15,6 +15,10 @@
     "Apps & Utilities",
     "Self-Hosted"
   ],
+  "Aryan-Pardeshi/CiteProof-AI": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
   "AtlasCloudAI/awesome-seedance-2.5-prompts-skills": [
     "Lists & Learning",
     "Awesome Lists"
@@ -122,6 +126,10 @@
   "builderz-labs/marketing-dashboard": [
     "Business & GTM",
     "Marketing & Growth"
+  ],
+  "cheaper-inference/OmniRoute": [
+    "LLM Tooling",
+    "Gateways & Proxies"
   ],
   "chrxh/alien": [
     "Apps & Utilities",
