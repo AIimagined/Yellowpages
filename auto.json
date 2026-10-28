@@ -11,6 +11,10 @@
     "AI Agents",
     "Agent Memory & Knowledge Graphs"
   ],
+  "AienTech/dossier": [
+    "Careers & Recruiting",
+    "Hiring & Job Search"
+  ],
   "Anil-matcha/open-spaces": [
     "Apps & Utilities",
     "Self-Hosted"
@@ -262,6 +266,10 @@
   "m0bilesecurity/RMS-Runtime-Mobile-Security": [
     "Security",
     "Security Tools"
+  ],
+  "makecindy/cindy": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
   ],
   "michaelshimeles/rstack": [
     "AI Coding",
