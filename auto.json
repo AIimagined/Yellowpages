@@ -35,6 +35,10 @@
     "Media",
     "AI Video Generation & Agents"
   ],
+  "CopilotKit/OpenDuet": [
+    "AI Agents",
+    "Agent Frameworks & Assistants"
+  ],
   "Dicklesworthstone/meta_skill": [
     "AI Coding",
     "Skill Collections & Marketplaces"
@@ -94,6 +98,10 @@
   "MaxMiksa/Autonomous-Company": [
     "AI Agents",
     "Multi-Agent Orchestration"
+  ],
+  "Mesh-LLM/mesh-llm": [
+    "AI Agents",
+    "Agent Memory & Knowledge Graphs"
   ],
   "Metabuilder-Labs/tokenjam": [
     "LLM Tooling",
@@ -162,6 +170,10 @@
   "cth9191/animate": [
     "Graphics & Animation",
     "Animation, Canvas & SVG"
+  ],
+  "dali-benothmen/woml": [
+    "Automation & DevOps",
+    "Workflow Automation"
   ],
   "ejbills/DockDoor": [
     "Apps & Utilities",
@@ -247,6 +259,10 @@
     "Finance",
     "Finance, Trading & Business"
   ],
+  "kargulstudio/calender-app-design": [
+    "Business & GTM",
+    "Sales & CRM"
+  ],
   "kargulstudio/kanban": [
     "Developer Tools",
     "Libraries & Dev Tools"
@@ -258,6 +274,10 @@
   "legioncodeinc/honeycomb": [
     "AI Agents",
     "Agent Memory & Knowledge Graphs"
+  ],
+  "logly/mureo": [
+    "Business & GTM",
+    "Outreach & Engagement"
   ],
   "luobosibing2/dsh-jev-plugin": [
     "AI Coding",
@@ -374,6 +394,10 @@
   "temporalio/skill-temporal-developer": [
     "AI Coding",
     "Skills: Engineering & Workflow"
+  ],
+  "tingly-dev/tingly-box": [
+    "E-commerce & Retail",
+    "Commerce Platforms & Agents"
   ],
   "trailhq/Trail-Code": [
     "MCP",
