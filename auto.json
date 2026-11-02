@@ -71,6 +71,10 @@
     "AI Coding",
     "Skill Collections & Marketplaces"
   ],
+  "HKUDS/AgentPilot": [
+    "AI Agents",
+    "Multi-Agent Orchestration"
+  ],
   "HKUDS/ViMax": [
     "Media",
     "AI Video Generation & Agents"
@@ -366,6 +370,10 @@
   "pgrundev/pgbot": [
     "Data & ML",
     "Databases"
+  ],
+  "phone-harness/phone-harness": [
+    "AI Agents",
+    "Browser & Computer Use"
   ],
   "pixtuoid/pixtuoid": [
     "AI Coding",
