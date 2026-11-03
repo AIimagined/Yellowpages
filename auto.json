@@ -415,6 +415,10 @@
     "Business & GTM",
     "Sales & CRM"
   ],
+  "wainmann/agent-manager": [
+    "AI Coding",
+    "Coding Agents & CLIs"
+  ],
   "whaleyxbt/claude-motion": [
     "Media",
     "AI Video Generation & Agents"
