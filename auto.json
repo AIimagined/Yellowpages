@@ -35,6 +35,10 @@
     "Media",
     "AI Video Generation & Agents"
   ],
+  "ClickHouse/ClickStack": [
+    "LLM Tooling",
+    "Observability & Evals"
+  ],
   "CopilotKit/OpenDuet": [
     "AI Agents",
     "Agent Frameworks & Assistants"
