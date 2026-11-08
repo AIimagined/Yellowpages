@@ -119,6 +119,10 @@
     "AI Agents",
     "Agent Memory & Knowledge Graphs"
   ],
+  "OpenMontageInc/OpenMontage": [
+    "Media",
+    "AI Video Generation & Agents"
+  ],
   "OrchestratorInc/agent-orchestrator": [
     "AI Agents",
     "Multi-Agent Orchestration"
