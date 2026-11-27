@@ -151,6 +151,10 @@
     "Media",
     "AI Video Generation & Agents"
   ],
+  "asfgsrgerg/jkandf": [
+    "Lists & Learning",
+    "Awesome Lists"
+  ],
   "borgmatic-collective/borgmatic": [
     "Automation & DevOps",
     "DevOps & Infrastructure"
@@ -438,10 +442,6 @@
   "whaleyxbt/claude-motion": [
     "Media",
     "AI Video Generation & Agents"
-  ],
-  "xixu-me/apds": [
-    "Lists & Learning",
-    "Awesome Lists"
   ],
   "yifanfeng97/Hyper-Extract": [
     "AI Agents",
